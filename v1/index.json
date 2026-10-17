@@ -1,0 +1,29 @@
+{
+  "config": {
+    "path": "config/launcher.e402032e207cfc01b6cf8a4904adc5055cb4b02fc1f232540c106f226c1988c0.json",
+    "sha256": "e402032e207cfc01b6cf8a4904adc5055cb4b02fc1f232540c106f226c1988c0",
+    "size": 894
+  },
+  "generatedAt": "2026-10-17T10:19:33Z",
+  "news": {
+    "path": "news/news.755b2d6410bcc75afdb8542b4f8da3ec9c4e2dbe2c86dd1a215c6a710f552ae1.json",
+    "sha256": "755b2d6410bcc75afdb8542b4f8da3ec9c4e2dbe2c86dd1a215c6a710f552ae1",
+    "size": 33
+  },
+  "packs": [
+    {
+      "default": true,
+      "id": "projects",
+      "latest": "1.0.0",
+      "manifest": {
+        "path": "packs/projects/1.0.0.json",
+        "sha256": "2ac275156a68499e35bb297077a7867edc950e4d02dd309742950498a4359c2e",
+        "size": 56204
+      },
+      "minecraft": "26.1.2",
+      "name": "Projects"
+    }
+  ],
+  "schema": 1,
+  "sequence": 1792232373
+}
