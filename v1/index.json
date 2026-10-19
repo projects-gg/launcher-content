@@ -1,10 +1,308 @@
 {
+  "afk": {
+    "builds": {
+      "linux-aarch64": {
+        "path": "afk/4.0.0/linux-aarch64.zip",
+        "sha256": "441efcdd1a121b049f370db0b84231371b201763833b7852ddceb183f72af59f",
+        "size": 75857206,
+        "urls": [
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.0.0/linux-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.0.0-linux-aarch64.zip"
+        ]
+      },
+      "linux-x86_64": {
+        "path": "afk/4.0.0/linux-x86_64.zip",
+        "sha256": "295316ae31f904ddeb6a846366deb9d524d280ea4032c7e84317330e9559d628",
+        "size": 78531899,
+        "urls": [
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.0.0/linux-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.0.0-linux-x86_64.zip"
+        ]
+      },
+      "macos-aarch64": {
+        "path": "afk/4.0.0/macos-aarch64.zip",
+        "sha256": "45acd2de0ac37ffc81dde5a2bfb9eeb9259a8b8716aeb62a412bfa69fe5af3a4",
+        "size": 72260786,
+        "urls": [
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.0.0/macos-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.0.0-macos-aarch64.zip"
+        ]
+      },
+      "macos-x86_64": {
+        "path": "afk/4.0.0/macos-x86_64.zip",
+        "sha256": "9b9881d9c5f15bdf8291b3da49750b8dd19b9942ced4161ba487b63bcb1c4b6e",
+        "size": 78062914,
+        "urls": [
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.0.0/macos-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.0.0-macos-x86_64.zip"
+        ]
+      },
+      "windows-aarch64": {
+        "path": "afk/4.0.0/windows-aarch64.zip",
+        "sha256": "f85fa748e04b96dae2f314a4793d976abcea27bb0134866f1c2fc5827b467e53",
+        "size": 68768312,
+        "urls": [
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.0.0/windows-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.0.0-windows-aarch64.zip"
+        ]
+      },
+      "windows-x86_64": {
+        "path": "afk/4.0.0/windows-x86_64.zip",
+        "sha256": "c448a92af40a96dbe80904c03c2036b91b3e9841b9ff2400e2428da40bbc6b46",
+        "size": 71613808,
+        "urls": [
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.0.0/windows-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.0.0-windows-x86_64.zip"
+        ]
+      }
+    },
+    "minecraftVersions": [
+      {
+        "label": "26.3",
+        "value": "26.3"
+      },
+      {
+        "label": "26.2",
+        "value": "26.2"
+      },
+      {
+        "label": "26.1",
+        "value": "26.1"
+      },
+      {
+        "label": "1.21.11",
+        "value": "1.21.11"
+      },
+      {
+        "label": "1.21.9 – 1.21.10",
+        "value": "1.21.9"
+      },
+      {
+        "label": "1.21.7 – 1.21.8",
+        "value": "1.21.7"
+      },
+      {
+        "label": "1.21.6",
+        "value": "1.21.6"
+      },
+      {
+        "label": "1.21.5",
+        "value": "1.21.5"
+      },
+      {
+        "label": "1.21.4",
+        "value": "1.21.4"
+      },
+      {
+        "label": "1.21.2 – 1.21.3",
+        "value": "1.21.2"
+      },
+      {
+        "label": "1.21 – 1.21.1",
+        "value": "1.21"
+      },
+      {
+        "label": "1.20.5 – 1.20.6",
+        "value": "1.20.5"
+      },
+      {
+        "label": "1.20.3 – 1.20.4",
+        "value": "1.20.3"
+      },
+      {
+        "label": "1.20.2",
+        "value": "1.20.2"
+      },
+      {
+        "label": "1.20 – 1.20.1",
+        "value": "1.20"
+      },
+      {
+        "label": "1.19.4",
+        "value": "1.19.4"
+      },
+      {
+        "label": "1.19.3",
+        "value": "1.19.3"
+      },
+      {
+        "label": "1.19.1 – 1.19.2",
+        "value": "1.19.1"
+      },
+      {
+        "label": "1.19",
+        "value": "1.19"
+      },
+      {
+        "label": "1.18.2",
+        "value": "1.18.2"
+      },
+      {
+        "label": "1.18 – 1.18.1",
+        "value": "1.18"
+      },
+      {
+        "label": "1.17.1",
+        "value": "1.17.1"
+      },
+      {
+        "label": "1.17",
+        "value": "1.17"
+      },
+      {
+        "label": "1.16.4 – 1.16.5",
+        "value": "1.16.4"
+      },
+      {
+        "label": "1.16.3",
+        "value": "1.16.3"
+      },
+      {
+        "label": "1.16.2",
+        "value": "1.16.2"
+      },
+      {
+        "label": "1.16.1",
+        "value": "1.16.1"
+      },
+      {
+        "label": "1.16",
+        "value": "1.16"
+      },
+      {
+        "label": "1.15.2",
+        "value": "1.15.2"
+      },
+      {
+        "label": "1.15.1",
+        "value": "1.15.1"
+      },
+      {
+        "label": "1.15",
+        "value": "1.15"
+      },
+      {
+        "label": "1.14.4",
+        "value": "1.14.4"
+      },
+      {
+        "label": "1.14.3",
+        "value": "1.14.3"
+      },
+      {
+        "label": "1.14.2",
+        "value": "1.14.2"
+      },
+      {
+        "label": "1.14.1",
+        "value": "1.14.1"
+      },
+      {
+        "label": "1.14",
+        "value": "1.14"
+      },
+      {
+        "label": "1.13.2",
+        "value": "1.13.2"
+      },
+      {
+        "label": "1.13.1",
+        "value": "1.13.1"
+      },
+      {
+        "label": "1.13",
+        "value": "1.13"
+      },
+      {
+        "label": "1.12.2",
+        "value": "1.12.2"
+      },
+      {
+        "label": "1.12.1",
+        "value": "1.12.1"
+      },
+      {
+        "label": "1.12",
+        "value": "1.12"
+      },
+      {
+        "label": "1.11.1 – 1.11.2",
+        "value": "1.11.1"
+      },
+      {
+        "label": "1.11",
+        "value": "1.11"
+      },
+      {
+        "label": "1.10 – 1.10.2",
+        "value": "1.10"
+      },
+      {
+        "label": "1.9.3 – 1.9.4",
+        "value": "1.9.3"
+      },
+      {
+        "label": "1.9.2",
+        "value": "1.9.2"
+      },
+      {
+        "label": "1.9.1",
+        "value": "1.9.1"
+      },
+      {
+        "label": "1.9",
+        "value": "1.9"
+      },
+      {
+        "label": "1.8 – 1.8.9",
+        "value": "1.8"
+      },
+      {
+        "label": "1.7.6 – 1.7.10",
+        "value": "1.7.6"
+      },
+      {
+        "label": "1.7.2 – 1.7.5",
+        "value": "1.7.2"
+      },
+      {
+        "label": "1.6.4",
+        "value": "1.6.4"
+      },
+      {
+        "label": "1.6.2",
+        "value": "1.6.2"
+      },
+      {
+        "label": "1.6.1",
+        "value": "1.6.1"
+      },
+      {
+        "label": "1.6",
+        "value": "1.6"
+      },
+      {
+        "label": "1.5.2",
+        "value": "1.5.2"
+      },
+      {
+        "label": "1.5 – 1.5.1",
+        "value": "1.5"
+      },
+      {
+        "label": "1.4.6 – 1.4.7",
+        "value": "1.4.6"
+      }
+    ],
+    "recommendedMinecraftVersion": "26.3",
+    "version": "4.0.0"
+  },
   "config": {
     "path": "config/launcher.e402032e207cfc01b6cf8a4904adc5055cb4b02fc1f232540c106f226c1988c0.json",
     "sha256": "e402032e207cfc01b6cf8a4904adc5055cb4b02fc1f232540c106f226c1988c0",
     "size": 894
   },
-  "generatedAt": "2026-10-17T10:19:33Z",
+  "generatedAt": "2026-10-19T15:14:53Z",
   "news": {
     "path": "news/news.755b2d6410bcc75afdb8542b4f8da3ec9c4e2dbe2c86dd1a215c6a710f552ae1.json",
     "sha256": "755b2d6410bcc75afdb8542b4f8da3ec9c4e2dbe2c86dd1a215c6a710f552ae1",
@@ -25,5 +323,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1792232373
+  "sequence": 1792422893
 }
