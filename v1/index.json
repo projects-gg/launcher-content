@@ -302,7 +302,12 @@
     "sha256": "e402032e207cfc01b6cf8a4904adc5055cb4b02fc1f232540c106f226c1988c0",
     "size": 894
   },
-  "generatedAt": "2026-10-19T15:14:53Z",
+  "generatedAt": "2026-10-20T14:47:16Z",
+  "modSets": {
+    "path": "modsets/modsets.34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11.json",
+    "sha256": "34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11",
+    "size": 81425
+  },
   "news": {
     "path": "news/news.755b2d6410bcc75afdb8542b4f8da3ec9c4e2dbe2c86dd1a215c6a710f552ae1.json",
     "sha256": "755b2d6410bcc75afdb8542b4f8da3ec9c4e2dbe2c86dd1a215c6a710f552ae1",
@@ -323,5 +328,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1792422893
+  "sequence": 1792507636
 }
