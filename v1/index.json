@@ -298,11 +298,11 @@
     "version": "4.0.1"
   },
   "config": {
-    "path": "config/launcher.e1ffbd0470f319f34c102bd59f683e11f33cc6a666e6b369944816105e3274bb.json",
-    "sha256": "e1ffbd0470f319f34c102bd59f683e11f33cc6a666e6b369944816105e3274bb",
-    "size": 934
+    "path": "config/launcher.833fb9174f2af3e5e6163f93d29e8363e54b7700c26c97575296a9d379e30e3b.json",
+    "sha256": "833fb9174f2af3e5e6163f93d29e8363e54b7700c26c97575296a9d379e30e3b",
+    "size": 952
   },
-  "generatedAt": "2026-10-21T09:07:13Z",
+  "generatedAt": "2026-10-21T21:50:57Z",
   "modSets": {
     "path": "modsets/modsets.34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11.json",
     "sha256": "34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11",
@@ -328,5 +328,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1792573633
+  "sequence": 1792619457
 }
