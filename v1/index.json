@@ -298,11 +298,11 @@
     "version": "4.0.1"
   },
   "config": {
-    "path": "config/launcher.833fb9174f2af3e5e6163f93d29e8363e54b7700c26c97575296a9d379e30e3b.json",
-    "sha256": "833fb9174f2af3e5e6163f93d29e8363e54b7700c26c97575296a9d379e30e3b",
-    "size": 952
+    "path": "config/launcher.c1eb5e9a6892012e6af2288cf8092ca048344b950cd366c6ee305775b2bd8421.json",
+    "sha256": "c1eb5e9a6892012e6af2288cf8092ca048344b950cd366c6ee305775b2bd8421",
+    "size": 991
   },
-  "generatedAt": "2026-10-21T21:50:57Z",
+  "generatedAt": "2026-10-24T11:50:16Z",
   "modSets": {
     "path": "modsets/modsets.34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11.json",
     "sha256": "34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11",
@@ -317,16 +317,16 @@
     {
       "default": true,
       "id": "projects",
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "manifest": {
-        "path": "packs/projects/1.0.0.json",
-        "sha256": "2ac275156a68499e35bb297077a7867edc950e4d02dd309742950498a4359c2e",
-        "size": 56204
+        "path": "packs/projects/1.0.1.json",
+        "sha256": "62321d4b8dccb8861369599d537a92ab8c1a8f525aaded7d7ea24e9b299724ac",
+        "size": 57298
       },
       "minecraft": "26.1.2",
       "name": "Projects"
     }
   ],
   "schema": 1,
-  "sequence": 1792619457
+  "sequence": 1792842616
 }
