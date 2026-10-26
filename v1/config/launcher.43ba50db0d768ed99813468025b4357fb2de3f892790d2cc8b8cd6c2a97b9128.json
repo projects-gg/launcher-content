@@ -1,0 +1,53 @@
+{
+  "banners": [],
+  "discord": {
+    "clientId": "",
+    "enabled": true,
+    "templates": {}
+  },
+  "events": [],
+  "features": {
+    "afk": true,
+    "chat": true,
+    "friends": true,
+    "modrinthBrowser": true,
+    "offlineAccounts": true,
+    "premiumLogin": true,
+    "skins": true,
+    "teams": true
+  },
+  "hero": {
+    "particles": "embers",
+    "subtitle": "",
+    "title": ""
+  },
+  "links": {
+    "custom": []
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": "",
+    "title": ""
+  },
+  "newsFeed": {
+    "enabled": true,
+    "keys": [
+      {
+        "keyId": "adc3cdee7d3161a7",
+        "publicKey": "xSpGNSi8itFZGDfPDiwgMzVyOWS/2xGep8VdLUomJwo="
+      }
+    ],
+    "maxAgeDays": 60,
+    "mirrors": [
+      "https://feed.projects.gg/v1/",
+      "https://projects.gg/launcher-feed/v1/"
+    ]
+  },
+  "recommendedMinecraftVersion": "26.1.2",
+  "recommendedPack": "projects",
+  "schema": 1,
+  "servers": [],
+  "theme": {
+    "season": "none"
+  }
+}
