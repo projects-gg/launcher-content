@@ -2,57 +2,57 @@
   "afk": {
     "builds": {
       "linux-aarch64": {
-        "path": "afk/4.1.2/linux-aarch64.zip",
-        "sha256": "9ce920d908f2c4b4856dff53658f16be82dfc87e47cd86b29aa9e9d76912b8a5",
-        "size": 75900717,
+        "path": "afk/4.2.4/linux-aarch64.zip",
+        "sha256": "717a00cb5dd5a3277947bd7f81a6213d03702cbbbe0624eaf88be872008cb4ea",
+        "size": 126612447,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.1.2/linux-aarch64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.1.2-linux-aarch64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.4/linux-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.4-linux-aarch64.zip"
         ]
       },
       "linux-x86_64": {
-        "path": "afk/4.1.2/linux-x86_64.zip",
-        "sha256": "0a900b2e3b2aafde5521787975cc56498d4e6228bb33230bdf4961283c3b93d8",
-        "size": 78555870,
+        "path": "afk/4.2.4/linux-x86_64.zip",
+        "sha256": "de0a18c4d526509d15e49fd7f95056bf8de0bacd78610be1e886e0abb5b4647d",
+        "size": 135238107,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.1.2/linux-x86_64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.1.2-linux-x86_64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.4/linux-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.4-linux-x86_64.zip"
         ]
       },
       "macos-aarch64": {
-        "path": "afk/4.1.2/macos-aarch64.zip",
-        "sha256": "f6910be7eba960d34055df5e9b8cfa9f514d9c6be2bc966e76ab87387b5271ff",
-        "size": 72278334,
+        "path": "afk/4.2.4/macos-aarch64.zip",
+        "sha256": "9627b29ecf9675dbab88f361fc671f5dd1cb1e9586f6f31537e75a2f3ac21966",
+        "size": 72317752,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.1.2/macos-aarch64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.1.2-macos-aarch64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.4/macos-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.4-macos-aarch64.zip"
         ]
       },
       "macos-x86_64": {
-        "path": "afk/4.1.2/macos-x86_64.zip",
-        "sha256": "afbe10928591f01b784bb0a68ef28bf0844c209b046256a4c3a8ebac64305307",
-        "size": 78096754,
+        "path": "afk/4.2.4/macos-x86_64.zip",
+        "sha256": "aa0f159a88b5cb109013b22af856e621bf663ca94c5e19dfa2ddebf94e2a7033",
+        "size": 78142749,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.1.2/macos-x86_64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.1.2-macos-x86_64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.4/macos-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.4-macos-x86_64.zip"
         ]
       },
       "windows-aarch64": {
-        "path": "afk/4.1.2/windows-aarch64.zip",
-        "sha256": "8facafeac7086d06728534d1e3c59c1a216f48dbd303911c0793eda92bdf8af9",
-        "size": 68805981,
+        "path": "afk/4.2.4/windows-aarch64.zip",
+        "sha256": "17b4f789a3a64319bc678e8615ea052d7182c7c002fb55731646b0ea67b3a6d4",
+        "size": 68845706,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.1.2/windows-aarch64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.1.2-windows-aarch64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.4/windows-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.4-windows-aarch64.zip"
         ]
       },
       "windows-x86_64": {
-        "path": "afk/4.1.2/windows-x86_64.zip",
-        "sha256": "caa0cbc440eb9dd8f016233e729c1de113774b20cf1c392c2613cdecd8a2dc05",
-        "size": 71634936,
+        "path": "afk/4.2.4/windows-x86_64.zip",
+        "sha256": "11c16c45c364787c8b817a4789bc383fcc82d12777aae855a189fe880b02ea27",
+        "size": 71671271,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.1.2/windows-x86_64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.1.2-windows-x86_64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.4/windows-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.4-windows-x86_64.zip"
         ]
       }
     },
@@ -295,18 +295,23 @@
       }
     ],
     "recommendedMinecraftVersion": "26.3",
-    "version": "4.1.2"
+    "version": "4.2.4"
   },
   "config": {
     "path": "config/launcher.43ba50db0d768ed99813468025b4357fb2de3f892790d2cc8b8cd6c2a97b9128.json",
     "sha256": "43ba50db0d768ed99813468025b4357fb2de3f892790d2cc8b8cd6c2a97b9128",
     "size": 971
   },
-  "generatedAt": "2026-10-26T16:23:52Z",
+  "generatedAt": "2026-10-31T02:11:34Z",
+  "itemArt": {
+    "path": "itemart/items.b7f8053872b042f77682f01790dbd016ed1b994d7ff20b2196c1f656ce7c3893.json",
+    "sha256": "b7f8053872b042f77682f01790dbd016ed1b994d7ff20b2196c1f656ce7c3893",
+    "size": 524452
+  },
   "modSets": {
-    "path": "modsets/modsets.34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11.json",
-    "sha256": "34f8dc5e41a553322b18545d122e5f2444a20522b3508ac5dcd70093aa55ed11",
-    "size": 81425
+    "path": "modsets/modsets.e06865b63c449c542698b3a12218cff372414f6c00f2c50fcf41b96cb469a76b.json",
+    "sha256": "e06865b63c449c542698b3a12218cff372414f6c00f2c50fcf41b96cb469a76b",
+    "size": 132431
   },
   "news": {
     "path": "news/news.755b2d6410bcc75afdb8542b4f8da3ec9c4e2dbe2c86dd1a215c6a710f552ae1.json",
@@ -317,16 +322,16 @@
     {
       "default": true,
       "id": "projects",
-      "latest": "1.0.1",
+      "latest": "1.0.3",
       "manifest": {
-        "path": "packs/projects/1.0.1.json",
-        "sha256": "62321d4b8dccb8861369599d537a92ab8c1a8f525aaded7d7ea24e9b299724ac",
-        "size": 57298
+        "path": "packs/projects/1.0.3.json",
+        "sha256": "1b1020cddc6d2edb32433eb2a99228c8250288353af6a24c47c54e9860d49f0c",
+        "size": 60341
       },
       "minecraft": "26.1.2",
       "name": "Projects"
     }
   ],
   "schema": 1,
-  "sequence": 1793031832
+  "sequence": 1793412694
 }

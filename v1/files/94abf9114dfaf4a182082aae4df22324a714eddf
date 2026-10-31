@@ -1,0 +1,215 @@
+{
+  "26.1.2": {
+    "files": [
+      {
+        "path": "mods/chesttracker-2.8.4+26.1.2.jar",
+        "hashes": {
+          "sha1": "5a61cdd4f930b37e083f8ae6125da35e628d523a",
+          "sha512": "6e8ad6d20d45add52e3ef5bd8b0fb71fc508fb5f6428ee79120d660f0a07bd8768fd191744a68f7fa6faf054e5bd1bc5c1ff5628d14af6aee699ee5c6b708dd9"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/VC2NohMN/versions/9dKA1FrM/chesttracker-2.8.4%2B26.1.2.jar"
+        ],
+        "fileSize": 3439924
+      },
+      {
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.1-fabric.jar",
+        "hashes": {
+          "sha1": "ccb1503a786d833901ace18322b7b6c89d24c7cb",
+          "sha512": "734a2735521940b23b49cc645c49f8ad760212adb315602daf9cfb3c2f401cdd8a07250dc3e0b7429120a641032f6c8be1e5955d7aec3b07547ca34e7bacd4fa"
+        },
+        "env": {
+          "client": "required",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/1eAoo2KR/versions/IODousKT/yet_another_config_lib_v3-3.9.7%2B26.1-fabric.jar"
+        ],
+        "fileSize": 1124837
+      }
+    ],
+    "items": [
+      {
+        "id": "VC2NohMN",
+        "path": "mods/chesttracker-2.8.4+26.1.2.jar",
+        "title": "Chest Tracker",
+        "summary": "Açtığın sandıkların içini hatırlar; Esc tuşunun altındaki tuşla aradığın eşyayı bulursun.",
+        "category": "interface",
+        "iconUrl": "https://cdn.modrinth.com/data/VC2NohMN/8b1fe0ad5ac8dcc8f568e4fc64b2a56f01810644.webp",
+        "pageUrl": "https://modrinth.com/project/VC2NohMN",
+        "modrinth": {
+          "projectId": "VC2NohMN",
+          "versionId": "9dKA1FrM"
+        },
+        "defaultEnabled": true,
+        "requires": [
+          "P7dR8mSH",
+          "1eAoo2KR"
+        ]
+      },
+      {
+        "id": "1eAoo2KR",
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.1-fabric.jar",
+        "title": "YetAnotherConfigLib (YACL)",
+        "category": "library",
+        "iconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+        "pageUrl": "https://modrinth.com/project/1eAoo2KR",
+        "modrinth": {
+          "projectId": "1eAoo2KR",
+          "versionId": "IODousKT"
+        },
+        "defaultEnabled": true,
+        "library": true,
+        "requires": [
+          "P7dR8mSH"
+        ]
+      }
+    ]
+  },
+  "26.2": {
+    "files": [
+      {
+        "path": "mods/chesttracker-2.8.4+26.2.jar",
+        "hashes": {
+          "sha1": "560003f49e7a927faac01f5006b934ff8de4ff09",
+          "sha512": "85af386a625da2e7448097cb38f9469f44375b918b567e7ca2c0d4023f25f244edcb4e9e235c18712c67e600f9a561133ca0dedea4e13a9c78e5416518333c7d"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/VC2NohMN/versions/NLV8VOf4/chesttracker-2.8.4%2B26.2.jar"
+        ],
+        "fileSize": 3456315
+      },
+      {
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "79c8ee7f8a0e775190dfff59be1e505e2f432998",
+          "sha512": "f36d91a9506ad9addbaaeecaea01d2b0cb5b060f52486b17688746cb597f0f3b23a80f8441f7a73a9cb8cde85af8809fe54825984b56345325359d505a80e7f2"
+        },
+        "env": {
+          "client": "required",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/1eAoo2KR/versions/DoR7RYgi/yet_another_config_lib_v3-3.9.7%2B26.2-fabric.jar"
+        ],
+        "fileSize": 1125271
+      }
+    ],
+    "items": [
+      {
+        "id": "VC2NohMN",
+        "path": "mods/chesttracker-2.8.4+26.2.jar",
+        "title": "Chest Tracker",
+        "summary": "Açtığın sandıkların içini hatırlar; Esc tuşunun altındaki tuşla aradığın eşyayı bulursun.",
+        "category": "interface",
+        "iconUrl": "https://cdn.modrinth.com/data/VC2NohMN/8b1fe0ad5ac8dcc8f568e4fc64b2a56f01810644.webp",
+        "pageUrl": "https://modrinth.com/project/VC2NohMN",
+        "modrinth": {
+          "projectId": "VC2NohMN",
+          "versionId": "NLV8VOf4"
+        },
+        "defaultEnabled": true,
+        "requires": [
+          "P7dR8mSH",
+          "1eAoo2KR"
+        ]
+      },
+      {
+        "id": "1eAoo2KR",
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+        "title": "YetAnotherConfigLib (YACL)",
+        "category": "library",
+        "iconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+        "pageUrl": "https://modrinth.com/project/1eAoo2KR",
+        "modrinth": {
+          "projectId": "1eAoo2KR",
+          "versionId": "DoR7RYgi"
+        },
+        "defaultEnabled": true,
+        "library": true,
+        "requires": [
+          "P7dR8mSH"
+        ]
+      }
+    ]
+  },
+  "26.3": {
+    "files": [
+      {
+        "path": "mods/chesttracker-2.8.4+26.3.jar",
+        "hashes": {
+          "sha1": "0a6f6d0b304e2e705773433cbd829568a2677651",
+          "sha512": "6e54c22b072246a716df5e3adf439e9434a8bf952b1032cd87fe2d9f27f5d889fa037d0e64166549bd3e854f88a4221784f5ac4f5848f327bbe6334a48a51755"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/VC2NohMN/versions/4VAHpekk/chesttracker-2.8.4%2B26.3.jar"
+        ],
+        "fileSize": 3450883
+      },
+      {
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+        "hashes": {
+          "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
+          "sha512": "f3957028dd31cae78f08aee3e768f61bd12c4c8423257d357bc3c1a2172047c769d37901f99775c7ffff1e5ee794025dc72738b2869cab06f1c2811841d68b24"
+        },
+        "env": {
+          "client": "required",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar"
+        ],
+        "fileSize": 1125377
+      }
+    ],
+    "items": [
+      {
+        "id": "VC2NohMN",
+        "path": "mods/chesttracker-2.8.4+26.3.jar",
+        "title": "Chest Tracker",
+        "summary": "Açtığın sandıkların içini hatırlar; Esc tuşunun altındaki tuşla aradığın eşyayı bulursun.",
+        "category": "interface",
+        "iconUrl": "https://cdn.modrinth.com/data/VC2NohMN/8b1fe0ad5ac8dcc8f568e4fc64b2a56f01810644.webp",
+        "pageUrl": "https://modrinth.com/project/VC2NohMN",
+        "modrinth": {
+          "projectId": "VC2NohMN",
+          "versionId": "4VAHpekk"
+        },
+        "defaultEnabled": true,
+        "requires": [
+          "P7dR8mSH",
+          "1eAoo2KR"
+        ]
+      },
+      {
+        "id": "1eAoo2KR",
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+        "title": "YetAnotherConfigLib (YACL)",
+        "category": "library",
+        "iconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+        "pageUrl": "https://modrinth.com/project/1eAoo2KR",
+        "modrinth": {
+          "projectId": "1eAoo2KR",
+          "versionId": "s9SjoFu1"
+        },
+        "defaultEnabled": true,
+        "library": true,
+        "requires": [
+          "P7dR8mSH"
+        ]
+      }
+    ]
+  }
+}

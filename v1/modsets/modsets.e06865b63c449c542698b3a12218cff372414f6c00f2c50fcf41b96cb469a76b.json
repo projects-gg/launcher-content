@@ -1,0 +1,3036 @@
+{
+  "schema": 1,
+  "sets": [
+    {
+      "en": {
+        "summary": "Low fire, short swords, a clear HUD, brightness and high FPS; within the server rules."
+      },
+      "id": "pvp",
+      "name": "PvP",
+      "purpose": "pvp",
+      "summary": "Alçak ateş, kısa kılıç, net HUD, parlaklık ve yüksek FPS; sunucu kurallarına uygun.",
+      "variants": [
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.1.2"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/ehZrmfH1/versions/2tR7gDAe/PvP%20Basics%202.3.1.zip"
+              ],
+              "fileSize": 410264,
+              "hashes": {
+                "sha1": "483e930a8a2dbe9e2d89e24300540a452501e8dc",
+                "sha512": "84ed3d15cb43d1bffc5fdfb5fcfb70c1bfe4c73ec1c68dee6b922c3dc4adab992aeb20955cdcc656633306a97736594009380d25c8e20d1f92374c48d7b50e24"
+              },
+              "path": "resourcepacks/PvP Basics 2.3.1.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/BpaObV8j/versions/TSnvYpcx/shorterswords.zip"
+              ],
+              "fileSize": 5236,
+              "hashes": {
+                "sha1": "02aa5e247cf3a909ed69aea588a51edb0f62cec5",
+                "sha512": "5d27ab38373257a2f2f21ce05ea442a636254ce32919cd0d514021d8b26a7701493dec5cb858b826d4a821d14f7bfa5cb4e2f73ddd8cf996c27b0593be53da77"
+              },
+              "path": "resourcepacks/shorterswords.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uFGhGxal/versions/vSay7e9U/PvP%20Crosshair.zip"
+              ],
+              "fileSize": 1863,
+              "hashes": {
+                "sha1": "ae1f1ba942ca282505667786d68fd252a6fd263e",
+                "sha512": "bd3ac28ec3be4a7bdbc3af5b4d1a94723a80aaeba28f398dc84943ac6d38cb2a51ee199db40499c304b69ec2c2c8d109b7ac0ae69c40cc2af7fba46278f5df9a"
+              },
+              "path": "resourcepacks/PvP Crosshair.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.projects.gg/v1/files/481e714f5393b10796ac1fbe7847ed60aa7e2e5b",
+                "https://raw.githubusercontent.com/projects-gg/launcher-content/main/v1/files/481e714f5393b10796ac1fbe7847ed60aa7e2e5b"
+              ],
+              "fileSize": 150879,
+              "hashes": {
+                "sha1": "481e714f5393b10796ac1fbe7847ed60aa7e2e5b",
+                "sha512": "a9ebb12646f8985fd04d21e5bac6d42a5fec90941310119d80fbaaeb40488f4cfbf63482e9613abf9a47073b2f7b961f3a24761b0b277818da48da6d72283182"
+              },
+              "path": "mods/WI-Zoom-1.7-MC26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/EsAfCjCV/versions/zLlqqiTA/appleskin-fabric-mc26.1.2-3.0.10.jar"
+              ],
+              "fileSize": 181584,
+              "hashes": {
+                "sha1": "8100276373646b6740bf20be59e9d8ed7ba24579",
+                "sha512": "eacb134cc9e03a4fd870c3e75fedd3fba6ef9bf1611dcff5b89f0d35b22bda5709f085436ac071c018cf7d3e5a54c9783477c4f091d4ded74deb5292f25f5644"
+              },
+              "path": "mods/appleskin-fabric-mc26.1.2-3.0.10.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/wF189hn9/versions/zvOTqals/ukus-armor-hud-fabric-0.11.0%2Bmc26.1.jar"
+              ],
+              "fileSize": 48315,
+              "hashes": {
+                "sha1": "25c42cb608db1570f2098b3e45f30259ac2870a3",
+                "sha512": "20f2fe916307fda8ad39906da484818fe91d59da6b6ebe24ef2cd57248584615bb77e8164d1cac029431fdd0ae856acdb345b8b5c56e3f77c1a7d953cdf4e319"
+              },
+              "path": "mods/ukus-armor-hud-fabric-0.11.0+mc26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/T9FDHbY5/versions/PJ07XgGC/statuseffecttimer-2.0.0%2B26.1.jar"
+              ],
+              "fileSize": 14873,
+              "hashes": {
+                "sha1": "e9571b8c84ef7ffe8618482306678c0c9b6bf9aa",
+                "sha512": "711b3f16cd4a5ebd8a039aab0cd18a4cbb23fb66269c7cc22d2ae09fc55c7069881bff59de5b7bf6159e6b22d4b28e49cf8d7cc3074a22546413959905580280"
+              },
+              "path": "mods/statuseffecttimer-2.0.0+26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/lIQY64qr/versions/iPb90jhz/tiptapshow-2.0.0%2B26.1.2.jar"
+              ],
+              "fileSize": 52637,
+              "hashes": {
+                "sha1": "4f0e1ccd7173ed9ae53e4d4f860c5f5ec8068721",
+                "sha512": "dd04463c0f945c51b5c300fce0a88f207f403f670f8e84a93218c2938498c33536bafba04aed3ca6c11910b878217e359897b27004ad663a306237ccc61a8056"
+              },
+              "path": "mods/tiptapshow-2.0.0+26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/wdLuzzEP/versions/Peox6y34/Gamma-Utils-Fabric-3.0.3%2Bmc26.1.jar"
+              ],
+              "fileSize": 103016,
+              "hashes": {
+                "sha1": "881de055a21085f1d85a8c18bebe6cd3ea0d84de",
+                "sha512": "064fa463c098c787ca584926032740f7fdd567c0c78be7bab48752a16f8c62e6163ba5ef0551dcaa7122975af2acc938a0bc8cc958570adbffaaa9207184b7cb"
+              },
+              "path": "mods/Gamma-Utils-Fabric-3.0.3+mc26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/AdU0HYOc/sodium-extra-fabric-0.9.4%2Bmc26.1.2.jar"
+              ],
+              "fileSize": 479510,
+              "hashes": {
+                "sha1": "3648f23310dfd511f094bde6c75d94f29893d07e",
+                "sha512": "6250c9de2964744eb4ac18771bd33ab2f6a0bb9708e7190bacc8db0267c7e6287ecc159b88aa4d8906a09cdbf81e8af32094bda5c41858fc48467dc6da8a4558"
+              },
+              "path": "mods/sodium-extra-fabric-0.9.4+mc26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/BQOgClUt/versions/d3RhoABV/decentfreelook-1.3%2B26.1.2.jar"
+              ],
+              "fileSize": 142452,
+              "hashes": {
+                "sha1": "8776004e11bd534fa655d45b49d436baef5ec735",
+                "sha512": "690d00df64f396fcab9d3979752a17a94af41b09ea35b03fb5f2a8da70aae2bbc4ed1a00988caa6ace74e88d4e2250b16aeb42a1a0408dd31d2a72ddbbe20c5e"
+              },
+              "path": "mods/decentfreelook-1.3+26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/tZQ3jqnf/sodium-fabric-0.9.2%2Bmc26.1.2.jar"
+              ],
+              "fileSize": 1940135,
+              "hashes": {
+                "sha1": "d107b02081262e243e80559192a2de86007155d6",
+                "sha512": "9a3cbc8111979fb2cada74d4df24867f4a8a76053b28d76796f0d1c9156cfc96c4f7d88b07072aea8d9574d46b5bc3ebf3b4d23c09c501f0089ee37681743475"
+              },
+              "path": "mods/sodium-fabric-0.9.2+mc26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+              ],
+              "fileSize": 72677,
+              "hashes": {
+                "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+                "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+              },
+              "path": "mods/ferritecore-9.0.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/xOA9hbpf/ImmediatelyFast-Fabric-1.15.3%2B26.1.jar"
+              ],
+              "fileSize": 310057,
+              "hashes": {
+                "sha1": "0bc5865bcb7f2f09d85559a58fccddcfd335f44d",
+                "sha512": "b665037aee8e76e330f068f640b340b97ce8c0c0e940dfccda8a5b00f772dfa9b2d20594bb950e4f2595b359ad3c27190a4d998da28d4507a9747ab507980d11"
+              },
+              "path": "mods/ImmediatelyFast-Fabric-1.15.3+26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/VhQ51u7a/entityculling-fabric-1.11.3-mc26.1.jar"
+              ],
+              "fileSize": 1506721,
+              "hashes": {
+                "sha1": "31cb6f12d73c4b2613fbe61cb3d4483a8c1c786d",
+                "sha512": "fa0ffcfea876243b860f582c7304454f7e4063052fdac2931fbd13f5c9e79ba4d47a0f1249af10c0829107126295b25fd664215bc73cd6f7706ec8f9fe3c80c4"
+              },
+              "path": "mods/entityculling-fabric-1.11.3-mc26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/HV67Kt1R/dynamic-fps-3.11.7%2Bminecraft-26.1.0-fabric.jar"
+              ],
+              "fileSize": 187418,
+              "hashes": {
+                "sha1": "2ed66a7f5cf81c8f4b17a551a1f7371ef99a45f7",
+                "sha512": "5feb34934f1f20d0fe65546f65084e9c59ed0ec8e9e80e91dd3ed80dbfc70212bf8cf31f078dc9e7a429edbe5f63774b200c8bd50c8726c4bcd9c74d9b696ab5"
+              },
+              "path": "mods/dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/ZJ6YTrMY/modmenu-18.0.2.jar"
+              ],
+              "fileSize": 859999,
+              "hashes": {
+                "sha1": "8fa5f0c6e844f44bfd836197b680ee6ea0006bcd",
+                "sha512": "37393e1d4a23a548463e92eb0687af69034ee7c308bd1d2d27d78df0292f124c4463f19d4b53128b59cda4e02d01d7ae09f06456d10abde19b6e450163e50e97"
+              },
+              "path": "mods/modmenu-18.0.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/3dM0X6ou/fabric-api-0.155.3%2B26.1.2.jar"
+              ],
+              "fileSize": 2521340,
+              "hashes": {
+                "sha1": "16c30dfcceaed1ac3b6ac84cbd348a906dc5093e",
+                "sha512": "fa0308b42e9cd0dc3ff946f246d199d74547e0c946d7e3c9780a2537155307baf25129f69bd1349273babf879ffb4608b7e4af0740938f9c0f7b371b1c67d6ca"
+              },
+              "path": "mods/fabric-api-0.155.3+26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/Y8uFrUil/versions/asZKdLUQ/ukulib-fabric-2.0.0%2B26.1.jar"
+              ],
+              "fileSize": 445580,
+              "hashes": {
+                "sha1": "c1b8365877cffbb7525718c77b430c8c31813b1d",
+                "sha512": "89d5c68354bc7dd712f2fbf4bd612f41e9430684128111cb370b14c9d988e6a8a7d18d5e423533fb78d8181d2908456b61904528c9bf2dcb85e2a76f95465ca1"
+              },
+              "path": "mods/ukulib-fabric-2.0.0+26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/GFM8zh9J/cloth-config-26.1.154.jar"
+              ],
+              "fileSize": 1135373,
+              "hashes": {
+                "sha1": "832f9047bc4af13587709c74f7c37e1c8579d1eb",
+                "sha512": "8bfb75f2cac0a9910316c6a368a228c0f8f1261ac6f03dec5fba594e1619ac04334a3df4fb29778d61d0b8290d55949371a523d722b35501bf9a2902956d3b17"
+              },
+              "path": "mods/cloth-config-26.1.154.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/eXts2L7r/versions/b3IPAHgB/placeholder-api-3.0.0%2B26.1.jar"
+              ],
+              "fileSize": 254376,
+              "hashes": {
+                "sha1": "c1ce548549ec4517b9393985cefc65389e6f36d8",
+                "sha512": "b559da0f13fef17967f2aff1d06b00995c7db21d9d5b7b580ab6eafdf2365e4ac86a7d094c2b481160a942f291bc2595f2cb8c91ce5e169f1c2f461782ecd2a8"
+              },
+              "path": "mods/placeholder-api-3.0.0+26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/IODousKT/yet_another_config_lib_v3-3.9.7%2B26.1-fabric.jar"
+              ],
+              "fileSize": 1124837,
+              "hashes": {
+                "sha1": "ccb1503a786d833901ace18322b7b6c89d24c7cb",
+                "sha512": "734a2735521940b23b49cc645c49f8ad760212adb315602daf9cfb3c2f401cdd8a07250dc3e0b7429120a641032f6c8be1e5955d7aec3b07547ca34e7bacd4fa"
+              },
+              "path": "mods/yet_another_config_lib_v3-3.9.7+26.1-fabric.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/ehZrmfH1/55bd9da55c6c10667b7af90eb16e5de00f813132_96.webp",
+              "id": "ehZrmfH1",
+              "modrinth": {
+                "projectId": "ehZrmfH1",
+                "versionId": "2tR7gDAe"
+              },
+              "pageUrl": "https://modrinth.com/project/ehZrmfH1",
+              "path": "resourcepacks/PvP Basics 2.3.1.zip",
+              "summary": "Alçak ateş, küçük kalkan ve totem, daha az duman.",
+              "title": "PvP Basics"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/BpaObV8j/d9d9cbbc91ee857af2aad5b11803c9a94975160d.png",
+              "id": "BpaObV8j",
+              "modrinth": {
+                "projectId": "BpaObV8j",
+                "versionId": "TSnvYpcx"
+              },
+              "pageUrl": "https://modrinth.com/project/BpaObV8j",
+              "path": "resourcepacks/shorterswords.zip",
+              "summary": "Daha kısa kılıçlar.",
+              "title": "PvP Swords"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": false,
+              "iconUrl": "https://cdn.modrinth.com/data/uFGhGxal/ed273bdaa07cf207bdc5a126f5e478433f64f317.png",
+              "id": "uFGhGxal",
+              "modrinth": {
+                "projectId": "uFGhGxal",
+                "versionId": "vSay7e9U"
+              },
+              "pageUrl": "https://modrinth.com/project/uFGhGxal",
+              "path": "resourcepacks/PvP Crosshair.zip",
+              "summary": "Sade bir nişangâh.",
+              "title": "PvP Crosshair"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://raw.githubusercontent.com/Wurst-Imperium/WI-Zoom/v1.7-MC26.1.2/src/main/resources/assets/wi_zoom/icon.png",
+              "id": "wi-zoom",
+              "pageUrl": "https://www.wimods.net/wi-zoom/",
+              "path": "mods/WI-Zoom-1.7-MC26.1.2.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Yakınlaştırma tuşu.",
+              "title": "WI Zoom"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+              "id": "EsAfCjCV",
+              "modrinth": {
+                "projectId": "EsAfCjCV",
+                "versionId": "zLlqqiTA"
+              },
+              "pageUrl": "https://modrinth.com/project/EsAfCjCV",
+              "path": "mods/appleskin-fabric-mc26.1.2-3.0.10.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Açlığı ve doygunluğu gösterir.",
+              "title": "AppleSkin"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/wF189hn9/a790ea8edc940ba6fd6bb92f298a19e438904e4a.png",
+              "id": "wF189hn9",
+              "modrinth": {
+                "projectId": "wF189hn9",
+                "versionId": "zvOTqals"
+              },
+              "pageUrl": "https://modrinth.com/project/wF189hn9",
+              "path": "mods/ukus-armor-hud-fabric-0.11.0+mc26.1.jar",
+              "requires": [
+                "Y8uFrUil"
+              ],
+              "summary": "Zırhının dayanıklılığı ekranda.",
+              "title": "uku's Armor HUD"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/T9FDHbY5/icon.png",
+              "id": "T9FDHbY5",
+              "modrinth": {
+                "projectId": "T9FDHbY5",
+                "versionId": "PJ07XgGC"
+              },
+              "pageUrl": "https://modrinth.com/project/T9FDHbY5",
+              "path": "mods/statuseffecttimer-2.0.0+26.1.jar",
+              "summary": "Efektlerin kalan süresi simgelerde.",
+              "title": "Status Effect Timer"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/lIQY64qr/e88ebb29d14977560caa8998d1e5c939af100ea5_96.webp",
+              "id": "lIQY64qr",
+              "modrinth": {
+                "projectId": "lIQY64qr",
+                "versionId": "iPb90jhz"
+              },
+              "pageUrl": "https://modrinth.com/project/lIQY64qr",
+              "path": "mods/tiptapshow-2.0.0+26.1.2.jar",
+              "requires": [
+                "P7dR8mSH",
+                "1eAoo2KR"
+              ],
+              "summary": "Bastığın tuşları ekranda gösterir.",
+              "title": "TipTapShow"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/wdLuzzEP/b6014c210bbedacf610f7d2dba55149dae9677c8.png",
+              "id": "wdLuzzEP",
+              "modrinth": {
+                "projectId": "wdLuzzEP",
+                "versionId": "Peox6y34"
+              },
+              "pageUrl": "https://modrinth.com/project/wdLuzzEP",
+              "path": "mods/Gamma-Utils-Fabric-3.0.3+mc26.1.jar",
+              "requires": [
+                "P7dR8mSH",
+                "9s6osm5g"
+              ],
+              "summary": "Parlaklığı tek tuşla açar.",
+              "title": "Gamma Utils"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/PtjYWJkn/0df4fb22a11e1dcb5e83cb0aadd275b571aca7a9_96.webp",
+              "id": "PtjYWJkn",
+              "modrinth": {
+                "projectId": "PtjYWJkn",
+                "versionId": "AdU0HYOc"
+              },
+              "pageUrl": "https://modrinth.com/project/PtjYWJkn",
+              "path": "mods/sodium-extra-fabric-0.9.4+mc26.1.2.jar",
+              "requires": [
+                "AANobbMI"
+              ],
+              "summary": "Sisi kapatma ve FPS göstergesi gibi ayarlar.",
+              "title": "Sodium Extra"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/BQOgClUt/87575f41e8ae6d05516280214a9551171969f511_96.webp",
+              "id": "BQOgClUt",
+              "modrinth": {
+                "projectId": "BQOgClUt",
+                "versionId": "d3RhoABV"
+              },
+              "pageUrl": "https://modrinth.com/project/BQOgClUt",
+              "path": "mods/decentfreelook-1.3+26.1.2.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Karakterini döndürmeden etrafına bakarsın.",
+              "title": "Decent Freelook"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+              "id": "AANobbMI",
+              "modrinth": {
+                "projectId": "AANobbMI",
+                "versionId": "tZQ3jqnf"
+              },
+              "pageUrl": "https://modrinth.com/project/AANobbMI",
+              "path": "mods/sodium-fabric-0.9.2+mc26.1.2.jar",
+              "summary": "Daha yüksek ve kararlı FPS.",
+              "title": "Sodium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+              "id": "uXXizFIs",
+              "modrinth": {
+                "projectId": "uXXizFIs",
+                "versionId": "d5ddUdiB"
+              },
+              "pageUrl": "https://modrinth.com/project/uXXizFIs",
+              "path": "mods/ferritecore-9.0.0-fabric.jar",
+              "summary": "Daha az bellek kullanır.",
+              "title": "FerriteCore"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+              "id": "5ZwdcRci",
+              "modrinth": {
+                "projectId": "5ZwdcRci",
+                "versionId": "xOA9hbpf"
+              },
+              "pageUrl": "https://modrinth.com/project/5ZwdcRci",
+              "path": "mods/ImmediatelyFast-Fabric-1.15.3+26.1.jar",
+              "summary": "Arayüzü ve yazıları daha hızlı çizer.",
+              "title": "ImmediatelyFast"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+              "id": "NNAgCjsB",
+              "modrinth": {
+                "projectId": "NNAgCjsB",
+                "versionId": "VhQ51u7a"
+              },
+              "pageUrl": "https://modrinth.com/project/NNAgCjsB",
+              "path": "mods/entityculling-fabric-1.11.3-mc26.1.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Görünmeyen varlıkları çizmez.",
+              "title": "Entity Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+              "id": "LQ3K71Q1",
+              "modrinth": {
+                "projectId": "LQ3K71Q1",
+                "versionId": "HV67Kt1R"
+              },
+              "pageUrl": "https://modrinth.com/project/LQ3K71Q1",
+              "path": "mods/dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Oyun arkadayken FPS'i kısar.",
+              "title": "Dynamic FPS"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+              "id": "mOgUt4GM",
+              "modrinth": {
+                "projectId": "mOgUt4GM",
+                "versionId": "ZJ6YTrMY"
+              },
+              "pageUrl": "https://modrinth.com/project/mOgUt4GM",
+              "path": "mods/modmenu-18.0.2.jar",
+              "requires": [
+                "P7dR8mSH",
+                "eXts2L7r"
+              ],
+              "summary": "Mod ayarlarına oyunun içinden ulaş.",
+              "title": "Mod Menu"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+              "id": "P7dR8mSH",
+              "library": true,
+              "modrinth": {
+                "projectId": "P7dR8mSH",
+                "versionId": "3dM0X6ou"
+              },
+              "pageUrl": "https://modrinth.com/project/P7dR8mSH",
+              "path": "mods/fabric-api-0.155.3+26.1.2.jar",
+              "title": "Fabric API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/Y8uFrUil/3306adc6d3ba21b11bb14f06f00c21cd5f47e506.webp",
+              "id": "Y8uFrUil",
+              "library": true,
+              "modrinth": {
+                "projectId": "Y8uFrUil",
+                "versionId": "asZKdLUQ"
+              },
+              "pageUrl": "https://modrinth.com/project/Y8uFrUil",
+              "path": "mods/ukulib-fabric-2.0.0+26.1.jar",
+              "title": "ukulib"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+              "id": "9s6osm5g",
+              "library": true,
+              "modrinth": {
+                "projectId": "9s6osm5g",
+                "versionId": "GFM8zh9J"
+              },
+              "pageUrl": "https://modrinth.com/project/9s6osm5g",
+              "path": "mods/cloth-config-26.1.154.jar",
+              "title": "Cloth Config API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+              "id": "eXts2L7r",
+              "library": true,
+              "modrinth": {
+                "projectId": "eXts2L7r",
+                "versionId": "b3IPAHgB"
+              },
+              "pageUrl": "https://modrinth.com/project/eXts2L7r",
+              "path": "mods/placeholder-api-3.0.0+26.1.jar",
+              "title": "Text Placeholder API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+              "id": "1eAoo2KR",
+              "library": true,
+              "modrinth": {
+                "projectId": "1eAoo2KR",
+                "versionId": "IODousKT"
+              },
+              "pageUrl": "https://modrinth.com/project/1eAoo2KR",
+              "path": "mods/yet_another_config_lib_v3-3.9.7+26.1-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "title": "YetAnotherConfigLib (YACL)"
+            }
+          ]
+        },
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.2"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/ehZrmfH1/versions/2tR7gDAe/PvP%20Basics%202.3.1.zip"
+              ],
+              "fileSize": 410264,
+              "hashes": {
+                "sha1": "483e930a8a2dbe9e2d89e24300540a452501e8dc",
+                "sha512": "84ed3d15cb43d1bffc5fdfb5fcfb70c1bfe4c73ec1c68dee6b922c3dc4adab992aeb20955cdcc656633306a97736594009380d25c8e20d1f92374c48d7b50e24"
+              },
+              "path": "resourcepacks/PvP Basics 2.3.1.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/BpaObV8j/versions/TSnvYpcx/shorterswords.zip"
+              ],
+              "fileSize": 5236,
+              "hashes": {
+                "sha1": "02aa5e247cf3a909ed69aea588a51edb0f62cec5",
+                "sha512": "5d27ab38373257a2f2f21ce05ea442a636254ce32919cd0d514021d8b26a7701493dec5cb858b826d4a821d14f7bfa5cb4e2f73ddd8cf996c27b0593be53da77"
+              },
+              "path": "resourcepacks/shorterswords.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uFGhGxal/versions/vSay7e9U/PvP%20Crosshair.zip"
+              ],
+              "fileSize": 1863,
+              "hashes": {
+                "sha1": "ae1f1ba942ca282505667786d68fd252a6fd263e",
+                "sha512": "bd3ac28ec3be4a7bdbc3af5b4d1a94723a80aaeba28f398dc84943ac6d38cb2a51ee199db40499c304b69ec2c2c8d109b7ac0ae69c40cc2af7fba46278f5df9a"
+              },
+              "path": "resourcepacks/PvP Crosshair.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/8bOImuGU/versions/DCo1Y5Qa/logical_zoom-0.0.36.jar"
+              ],
+              "fileSize": 119573,
+              "hashes": {
+                "sha1": "8a3a1ae15a78ca0c932f122ce7274746ca8e5355",
+                "sha512": "155fad2f7712c3a27b49e82b8234ef29d318a0175738e6838a2c1a55db15206e8cc804510d18b3410d9b09fde441f5b9550f94bd4c1b3c242225e2f9753a0717"
+              },
+              "path": "mods/logical_zoom-0.0.36.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/EsAfCjCV/versions/uo5bAN1Y/appleskin-fabric-mc26.2-3.0.10.jar"
+              ],
+              "fileSize": 181627,
+              "hashes": {
+                "sha1": "03a635bae2c5a5e66825a35ff130242752054b32",
+                "sha512": "ddf31d8fe239f66760632606221a9ea55d31907a9f7f8667331929cad348457ec2199cb90d410ee1a06e36bafc01a3bf152a06fd3c9b9e46f50841240875832b"
+              },
+              "path": "mods/appleskin-fabric-mc26.2-3.0.10.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/wF189hn9/versions/K6G1JNFw/ukus-armor-hud-fabric-0.12.0%2Bmc26.2.jar"
+              ],
+              "fileSize": 49661,
+              "hashes": {
+                "sha1": "73e2e9a61258f55d03107cffd5531d397fd86b24",
+                "sha512": "d2e4d74bd27bbc6a1943a333e8887ee51b1fcc1585e4cbd4814a8e9c5f385f0417d74d653970087eb206177b3d8d43a70fbf476e3e3298d7c2a2b318c9f9eeea"
+              },
+              "path": "mods/ukus-armor-hud-fabric-0.12.0+mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/T9FDHbY5/versions/hflAhCeh/statuseffecttimer-2.0.0%2B26.2.jar"
+              ],
+              "fileSize": 14950,
+              "hashes": {
+                "sha1": "b2eff1ac39628c52f793b092b387d85ad8e0d8e8",
+                "sha512": "fa0d531739160be275ef3251da97119ef490d67adab843c10a42daa8147b5ffa309c2cb2e60e95d1be897b185400f1174c47e07ebc0da8852ac659bc503fea0f"
+              },
+              "path": "mods/statuseffecttimer-2.0.0+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/lIQY64qr/versions/ALzAGjwL/tiptapshow-2.0.0%2B26.2.jar"
+              ],
+              "fileSize": 52821,
+              "hashes": {
+                "sha1": "1c0ede5cb9ecd2d10753f40b14747439c63b76a3",
+                "sha512": "64df6ba59d460214a3a7fe0e82ef2f170404e9b112ee85ddc0ce1d9b95f56dcc917c49fad91b66c70e22f6492c2b58a3ffa7043b0854387dcd5bbab019a3852a"
+              },
+              "path": "mods/tiptapshow-2.0.0+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/VXFg68YU/versions/HNFcZ5gd/hitcolor-1.1.0%2Bmc26.2.jar"
+              ],
+              "fileSize": 24733,
+              "hashes": {
+                "sha1": "02362f029956aa42736721be78a1273626274b1c",
+                "sha512": "918f0635464ee6c95230c840cf6df0cb031a6c493082c463eda522c651682aa7dd03d0403ea65e39a0687a8e8ac936b33fc9b2527cca2bfb85bd4d7493a0360f"
+              },
+              "path": "mods/hitcolor-1.1.0+mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/wdLuzzEP/versions/TQcBePZN/Gamma-Utils-Fabric-3.1.3%2Bmc26.2.jar"
+              ],
+              "fileSize": 103072,
+              "hashes": {
+                "sha1": "d41592981a4069637ad3b76fda2acd35238df040",
+                "sha512": "7847c6a40a97154aba18854d0706ec6f610aadb3204a437a5c90659476337fd6a3be0fc8ad2648edc5d4184d439254d71fc9112796ad7cf1e773589aa25f5222"
+              },
+              "path": "mods/Gamma-Utils-Fabric-3.1.3+mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/kGXOsmfx/sodium-extra-fabric-0.9.4%2Bmc26.2.jar"
+              ],
+              "fileSize": 484469,
+              "hashes": {
+                "sha1": "e1a6d6af9081898d79eae0921098f8da2fc4f14a",
+                "sha512": "7d45a24acc950e57efe5ff59b12d3ab3245733712120e4457b048f71ee856e5cb0d1169bb4bcc02e63000b8e1818b8ce040291a61c23ae7c23f0be2d5810dae7"
+              },
+              "path": "mods/sodium-extra-fabric-0.9.4+mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/BQOgClUt/versions/bPtuybxb/decentfreelook-1.3%2B26.2.jar"
+              ],
+              "fileSize": 142486,
+              "hashes": {
+                "sha1": "c178a6e290176957e7bc4c27eed91f146645f0c5",
+                "sha512": "675428e28299053305441519044bed8b1d89084596c6cce678a077b7abdf17441342d0c968769d0e413208ab64b9148a2be8ce7414cf757717cf20ae2f4233ab"
+              },
+              "path": "mods/decentfreelook-1.3+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar"
+              ],
+              "fileSize": 1885572,
+              "hashes": {
+                "sha1": "62a70961a5b3e06938e06ab5f2dc4c5a51cf3323",
+                "sha512": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c"
+              },
+              "path": "mods/sodium-fabric-0.9.2+mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+              ],
+              "fileSize": 72677,
+              "hashes": {
+                "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+                "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+              },
+              "path": "mods/ferritecore-9.0.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/pMWERcSu/ImmediatelyFast-Fabric-1.16.5%2B26.2.jar"
+              ],
+              "fileSize": 100500,
+              "hashes": {
+                "sha1": "0286260261591fe77ba0d332d5d5a2d2e868c2c6",
+                "sha512": "5836b089072c0fd796613d42c3bd01c7e401b6ad53de80328bb9d74d585de9be0ff0cfc4d6ffa1ed41008750573b0525eff8c064162a2f724ad16817a8fdaf22"
+              },
+              "path": "mods/ImmediatelyFast-Fabric-1.16.5+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/uXe0pIaz/entityculling-fabric-1.11.3-mc26.2.jar"
+              ],
+              "fileSize": 1508596,
+              "hashes": {
+                "sha1": "a2210d12bdeac78daf7bb2fdc6b5d85448642cdf",
+                "sha512": "18ca7ea525144dac9474a1b178eb21baf3dcfc182618811dfca535833faece3b4c74eb8ee026c95b6dbabd084b8b3075a51d319de512caedd24595d5dd10cd30"
+              },
+              "path": "mods/entityculling-fabric-1.11.3-mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pC2JjFw1/dynamic-fps-3.11.9%2Bminecraft-26.2.0-fabric.jar"
+              ],
+              "fileSize": 188740,
+              "hashes": {
+                "sha1": "e8cd9e4fbc6d42091faffc873b0801f1189ed6a5",
+                "sha512": "79b13548d7e9de9abfa23e062724a885e5341f371c500d6570056ecea7db00c2f7ace5a7288179ad8baec575b4aa992b91dccbc940c584cb5cddf0bc7aeb892f"
+              },
+              "path": "mods/dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/iRo7AZXf/modmenu-20.0.3.jar"
+              ],
+              "fileSize": 616919,
+              "hashes": {
+                "sha1": "9fc381627b471c18d67156e846228f51ff2ea5b4",
+                "sha512": "c8224aa7a460d0c56ccb9978a112e4ad0d3eb17e2796e0c468a2392d220749f4f602838a11b3666145462c26078a879ab8a2fc177aa440f58e189c92a0088d6e"
+              },
+              "path": "mods/modmenu-20.0.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/ewUK83HI/fabric-api-0.161.0%2B26.2.jar"
+              ],
+              "fileSize": 2566123,
+              "hashes": {
+                "sha1": "332da34ebb72171e603a0c538de17f4c54ea9e29",
+                "sha512": "2502fa5ade78e9a120b3747bc1a9a2167d6671743bea45bf115d3174c94121aeda87c549446d1a604a9c11fb828de17a551e3514ce42f3e93069dd14bdaee55b"
+              },
+              "path": "mods/fabric-api-0.161.0+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/Y8uFrUil/versions/olOAyH3N/ukulib-fabric-2.1.1%2B26.2.jar"
+              ],
+              "fileSize": 456607,
+              "hashes": {
+                "sha1": "9ee183b0ed4ef105691ecfe99a00588acc3c086b",
+                "sha512": "d996515191c6c36343607e28706c3036a5887f1be7fa1d0e59c09127fbd22e2be3da9a990be73196defd8ef4d75ac32d51b641bb17a51d19950ca9497e0702d7"
+              },
+              "path": "mods/ukulib-fabric-2.1.1+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar"
+              ],
+              "fileSize": 254973,
+              "hashes": {
+                "sha1": "99b57ccc1d4323c4ef71887828dac25ce4ce2103",
+                "sha512": "07b6fc802559d54ec6577f6e2788926ef391d755206c2bfb0528280977885cae4bc0c517d8a53eb6f34092015ebe6c41210627d255aa6504662daefa8fb76397"
+              },
+              "path": "mods/placeholder-api-3.1.0-beta.1+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/DoR7RYgi/yet_another_config_lib_v3-3.9.7%2B26.2-fabric.jar"
+              ],
+              "fileSize": 1125271,
+              "hashes": {
+                "sha1": "79c8ee7f8a0e775190dfff59be1e505e2f432998",
+                "sha512": "f36d91a9506ad9addbaaeecaea01d2b0cb5b060f52486b17688746cb597f0f3b23a80f8441f7a73a9cb8cde85af8809fe54825984b56345325359d505a80e7f2"
+              },
+              "path": "mods/yet_another_config_lib_v3-3.9.7+26.2-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
+              ],
+              "fileSize": 1135186,
+              "hashes": {
+                "sha1": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e",
+                "sha512": "37b1e402f0df5a383656e21a38ee18cdd15cb4ba3fb62fbeba82ef4b959a4479fc32718ac0d9d154a7d9104c5f7315bfa67dbeced0b8ff240b8039d4848d5df1"
+              },
+              "path": "mods/cloth-config-26.2.155.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/ehZrmfH1/55bd9da55c6c10667b7af90eb16e5de00f813132_96.webp",
+              "id": "ehZrmfH1",
+              "modrinth": {
+                "projectId": "ehZrmfH1",
+                "versionId": "2tR7gDAe"
+              },
+              "pageUrl": "https://modrinth.com/project/ehZrmfH1",
+              "path": "resourcepacks/PvP Basics 2.3.1.zip",
+              "summary": "Alçak ateş, küçük kalkan ve totem, daha az duman.",
+              "title": "PvP Basics"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/BpaObV8j/d9d9cbbc91ee857af2aad5b11803c9a94975160d.png",
+              "id": "BpaObV8j",
+              "modrinth": {
+                "projectId": "BpaObV8j",
+                "versionId": "TSnvYpcx"
+              },
+              "pageUrl": "https://modrinth.com/project/BpaObV8j",
+              "path": "resourcepacks/shorterswords.zip",
+              "summary": "Daha kısa kılıçlar.",
+              "title": "PvP Swords"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": false,
+              "iconUrl": "https://cdn.modrinth.com/data/uFGhGxal/ed273bdaa07cf207bdc5a126f5e478433f64f317.png",
+              "id": "uFGhGxal",
+              "modrinth": {
+                "projectId": "uFGhGxal",
+                "versionId": "vSay7e9U"
+              },
+              "pageUrl": "https://modrinth.com/project/uFGhGxal",
+              "path": "resourcepacks/PvP Crosshair.zip",
+              "summary": "Sade bir nişangâh.",
+              "title": "PvP Crosshair"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/8bOImuGU/4b8c010483f236c957b9e85cf24dfa7483739c02_96.webp",
+              "id": "8bOImuGU",
+              "modrinth": {
+                "projectId": "8bOImuGU",
+                "versionId": "DCo1Y5Qa"
+              },
+              "pageUrl": "https://modrinth.com/project/8bOImuGU",
+              "path": "mods/logical_zoom-0.0.36.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Yakınlaştırma tuşu.",
+              "title": "Logical Zoom"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+              "id": "EsAfCjCV",
+              "modrinth": {
+                "projectId": "EsAfCjCV",
+                "versionId": "uo5bAN1Y"
+              },
+              "pageUrl": "https://modrinth.com/project/EsAfCjCV",
+              "path": "mods/appleskin-fabric-mc26.2-3.0.10.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Açlığı ve doygunluğu gösterir.",
+              "title": "AppleSkin"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/wF189hn9/a790ea8edc940ba6fd6bb92f298a19e438904e4a.png",
+              "id": "wF189hn9",
+              "modrinth": {
+                "projectId": "wF189hn9",
+                "versionId": "K6G1JNFw"
+              },
+              "pageUrl": "https://modrinth.com/project/wF189hn9",
+              "path": "mods/ukus-armor-hud-fabric-0.12.0+mc26.2.jar",
+              "requires": [
+                "Y8uFrUil"
+              ],
+              "summary": "Zırhının dayanıklılığı ekranda.",
+              "title": "uku's Armor HUD"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/T9FDHbY5/icon.png",
+              "id": "T9FDHbY5",
+              "modrinth": {
+                "projectId": "T9FDHbY5",
+                "versionId": "hflAhCeh"
+              },
+              "pageUrl": "https://modrinth.com/project/T9FDHbY5",
+              "path": "mods/statuseffecttimer-2.0.0+26.2.jar",
+              "summary": "Efektlerin kalan süresi simgelerde.",
+              "title": "Status Effect Timer"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/lIQY64qr/e88ebb29d14977560caa8998d1e5c939af100ea5_96.webp",
+              "id": "lIQY64qr",
+              "modrinth": {
+                "projectId": "lIQY64qr",
+                "versionId": "ALzAGjwL"
+              },
+              "pageUrl": "https://modrinth.com/project/lIQY64qr",
+              "path": "mods/tiptapshow-2.0.0+26.2.jar",
+              "requires": [
+                "P7dR8mSH",
+                "1eAoo2KR"
+              ],
+              "summary": "Bastığın tuşları ekranda gösterir.",
+              "title": "TipTapShow"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": false,
+              "iconUrl": "https://cdn.modrinth.com/data/VXFg68YU/e6388cd0cc58ecd3141fd048bd6b85111953c1c9_96.webp",
+              "id": "VXFg68YU",
+              "modrinth": {
+                "projectId": "VXFg68YU",
+                "versionId": "HNFcZ5gd"
+              },
+              "pageUrl": "https://modrinth.com/project/VXFg68YU",
+              "path": "mods/hitcolor-1.1.0+mc26.2.jar",
+              "requires": [
+                "mOgUt4GM",
+                "1eAoo2KR"
+              ],
+              "summary": "Vuruş rengini sen seçersin.",
+              "title": "HitColor"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/wdLuzzEP/b6014c210bbedacf610f7d2dba55149dae9677c8.png",
+              "id": "wdLuzzEP",
+              "modrinth": {
+                "projectId": "wdLuzzEP",
+                "versionId": "TQcBePZN"
+              },
+              "pageUrl": "https://modrinth.com/project/wdLuzzEP",
+              "path": "mods/Gamma-Utils-Fabric-3.1.3+mc26.2.jar",
+              "requires": [
+                "P7dR8mSH",
+                "9s6osm5g"
+              ],
+              "summary": "Parlaklığı tek tuşla açar.",
+              "title": "Gamma Utils"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/PtjYWJkn/0df4fb22a11e1dcb5e83cb0aadd275b571aca7a9_96.webp",
+              "id": "PtjYWJkn",
+              "modrinth": {
+                "projectId": "PtjYWJkn",
+                "versionId": "kGXOsmfx"
+              },
+              "pageUrl": "https://modrinth.com/project/PtjYWJkn",
+              "path": "mods/sodium-extra-fabric-0.9.4+mc26.2.jar",
+              "requires": [
+                "AANobbMI"
+              ],
+              "summary": "Sisi kapatma ve FPS göstergesi gibi ayarlar.",
+              "title": "Sodium Extra"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/BQOgClUt/87575f41e8ae6d05516280214a9551171969f511_96.webp",
+              "id": "BQOgClUt",
+              "modrinth": {
+                "projectId": "BQOgClUt",
+                "versionId": "bPtuybxb"
+              },
+              "pageUrl": "https://modrinth.com/project/BQOgClUt",
+              "path": "mods/decentfreelook-1.3+26.2.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Karakterini döndürmeden etrafına bakarsın.",
+              "title": "Decent Freelook"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+              "id": "AANobbMI",
+              "modrinth": {
+                "projectId": "AANobbMI",
+                "versionId": "xJZxADzI"
+              },
+              "pageUrl": "https://modrinth.com/project/AANobbMI",
+              "path": "mods/sodium-fabric-0.9.2+mc26.2.jar",
+              "summary": "Daha yüksek ve kararlı FPS.",
+              "title": "Sodium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+              "id": "uXXizFIs",
+              "modrinth": {
+                "projectId": "uXXizFIs",
+                "versionId": "d5ddUdiB"
+              },
+              "pageUrl": "https://modrinth.com/project/uXXizFIs",
+              "path": "mods/ferritecore-9.0.0-fabric.jar",
+              "summary": "Daha az bellek kullanır.",
+              "title": "FerriteCore"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+              "id": "5ZwdcRci",
+              "modrinth": {
+                "projectId": "5ZwdcRci",
+                "versionId": "pMWERcSu"
+              },
+              "pageUrl": "https://modrinth.com/project/5ZwdcRci",
+              "path": "mods/ImmediatelyFast-Fabric-1.16.5+26.2.jar",
+              "summary": "Arayüzü ve yazıları daha hızlı çizer.",
+              "title": "ImmediatelyFast"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+              "id": "NNAgCjsB",
+              "modrinth": {
+                "projectId": "NNAgCjsB",
+                "versionId": "uXe0pIaz"
+              },
+              "pageUrl": "https://modrinth.com/project/NNAgCjsB",
+              "path": "mods/entityculling-fabric-1.11.3-mc26.2.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Görünmeyen varlıkları çizmez.",
+              "title": "Entity Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+              "id": "LQ3K71Q1",
+              "modrinth": {
+                "projectId": "LQ3K71Q1",
+                "versionId": "pC2JjFw1"
+              },
+              "pageUrl": "https://modrinth.com/project/LQ3K71Q1",
+              "path": "mods/dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Oyun arkadayken FPS'i kısar.",
+              "title": "Dynamic FPS"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+              "id": "mOgUt4GM",
+              "modrinth": {
+                "projectId": "mOgUt4GM",
+                "versionId": "iRo7AZXf"
+              },
+              "pageUrl": "https://modrinth.com/project/mOgUt4GM",
+              "path": "mods/modmenu-20.0.3.jar",
+              "requires": [
+                "P7dR8mSH",
+                "eXts2L7r"
+              ],
+              "summary": "Mod ayarlarına oyunun içinden ulaş.",
+              "title": "Mod Menu"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+              "id": "P7dR8mSH",
+              "library": true,
+              "modrinth": {
+                "projectId": "P7dR8mSH",
+                "versionId": "ewUK83HI"
+              },
+              "pageUrl": "https://modrinth.com/project/P7dR8mSH",
+              "path": "mods/fabric-api-0.161.0+26.2.jar",
+              "title": "Fabric API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/Y8uFrUil/3306adc6d3ba21b11bb14f06f00c21cd5f47e506.webp",
+              "id": "Y8uFrUil",
+              "library": true,
+              "modrinth": {
+                "projectId": "Y8uFrUil",
+                "versionId": "olOAyH3N"
+              },
+              "pageUrl": "https://modrinth.com/project/Y8uFrUil",
+              "path": "mods/ukulib-fabric-2.1.1+26.2.jar",
+              "title": "ukulib"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+              "id": "eXts2L7r",
+              "library": true,
+              "modrinth": {
+                "projectId": "eXts2L7r",
+                "versionId": "NDqH16LT"
+              },
+              "pageUrl": "https://modrinth.com/project/eXts2L7r",
+              "path": "mods/placeholder-api-3.1.0-beta.1+26.2.jar",
+              "title": "Text Placeholder API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+              "id": "1eAoo2KR",
+              "library": true,
+              "modrinth": {
+                "projectId": "1eAoo2KR",
+                "versionId": "DoR7RYgi"
+              },
+              "pageUrl": "https://modrinth.com/project/1eAoo2KR",
+              "path": "mods/yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "title": "YetAnotherConfigLib (YACL)"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+              "id": "9s6osm5g",
+              "library": true,
+              "modrinth": {
+                "projectId": "9s6osm5g",
+                "versionId": "Nv3xnWXd"
+              },
+              "pageUrl": "https://modrinth.com/project/9s6osm5g",
+              "path": "mods/cloth-config-26.2.155.jar",
+              "title": "Cloth Config API"
+            }
+          ]
+        },
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.3"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/ehZrmfH1/versions/2tR7gDAe/PvP%20Basics%202.3.1.zip"
+              ],
+              "fileSize": 410264,
+              "hashes": {
+                "sha1": "483e930a8a2dbe9e2d89e24300540a452501e8dc",
+                "sha512": "84ed3d15cb43d1bffc5fdfb5fcfb70c1bfe4c73ec1c68dee6b922c3dc4adab992aeb20955cdcc656633306a97736594009380d25c8e20d1f92374c48d7b50e24"
+              },
+              "path": "resourcepacks/PvP Basics 2.3.1.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/BpaObV8j/versions/TSnvYpcx/shorterswords.zip"
+              ],
+              "fileSize": 5236,
+              "hashes": {
+                "sha1": "02aa5e247cf3a909ed69aea588a51edb0f62cec5",
+                "sha512": "5d27ab38373257a2f2f21ce05ea442a636254ce32919cd0d514021d8b26a7701493dec5cb858b826d4a821d14f7bfa5cb4e2f73ddd8cf996c27b0593be53da77"
+              },
+              "path": "resourcepacks/shorterswords.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uFGhGxal/versions/vSay7e9U/PvP%20Crosshair.zip"
+              ],
+              "fileSize": 1863,
+              "hashes": {
+                "sha1": "ae1f1ba942ca282505667786d68fd252a6fd263e",
+                "sha512": "bd3ac28ec3be4a7bdbc3af5b4d1a94723a80aaeba28f398dc84943ac6d38cb2a51ee199db40499c304b69ec2c2c8d109b7ac0ae69c40cc2af7fba46278f5df9a"
+              },
+              "path": "resourcepacks/PvP Crosshair.zip"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/8bOImuGU/versions/NG757h5m/logical_zoom-0.0.37.jar"
+              ],
+              "fileSize": 119225,
+              "hashes": {
+                "sha1": "4d6409d93a9aa5d0887b3f2c14fb038abe0ea78d",
+                "sha512": "1b27d918f7b5c6f6d9e802d99b7b7793a2ef68a731c689b2e712b010ce9bebe66c4019d9e7bf7aac8e12b8ab131e8b79a6cdee893411c2701ba5e0169133e415"
+              },
+              "path": "mods/logical_zoom-0.0.37.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/EsAfCjCV/versions/PHjDtQay/appleskin-fabric-mc26.3-3.0.10.jar"
+              ],
+              "fileSize": 180194,
+              "hashes": {
+                "sha1": "3d19e40c5f97186857db98e622c01c2cd0030497",
+                "sha512": "17d257af419b7530aa8617c2e8c0e4bbfabcf888f26655790e0188e7957e0bcd931f85f9a4c69fd27e889dee5082cf7b2b8741a14a6ed4425e9ef4bfe13a8b8c"
+              },
+              "path": "mods/appleskin-fabric-mc26.3-3.0.10.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/wF189hn9/versions/URl1E7bP/ukus-armor-hud-fabric-0.14.0%2Bmc26.3.jar"
+              ],
+              "fileSize": 58151,
+              "hashes": {
+                "sha1": "6abf9e3aadcd31f8330a249aa2dee8db575025c3",
+                "sha512": "fa7ec8789ed0977f94ab6ea25c00ee9cd7e9542824e5e1817b5ea0a8a5d575923b73611a72b3b3cffe310ac59e50fd9b3961ef6459485c310388716c3b307ffe"
+              },
+              "path": "mods/ukus-armor-hud-fabric-0.14.0+mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/T9FDHbY5/versions/NfHPutHW/statuseffecttimer-2.0.0%2B26.3.jar"
+              ],
+              "fileSize": 14952,
+              "hashes": {
+                "sha1": "a3447fee0a1fc1401e580bc727a1ac617951c181",
+                "sha512": "7dc22d4295a6733eb7d2578e42d490c2d475c1632ff6d5a6b5a9640cca762a42db8035b0f11e9feec770e9d13e8e60a30debfe5127bd8e2a02f65272d669be20"
+              },
+              "path": "mods/statuseffecttimer-2.0.0+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/lIQY64qr/versions/5oHE9POI/tiptapshow-2.0.0%2B26.3.jar"
+              ],
+              "fileSize": 52872,
+              "hashes": {
+                "sha1": "1c4b1297ad19d6e54dd22780c7dffa17c5ca868c",
+                "sha512": "8e802d3ccaffd5f15155b03c8469ee8a0408f9a3b9698eb62df4b111b33922b8d83496e91a3e5f42e6b50899cccead2e8ef6dd105a835a8b6f59fbb23cab3315"
+              },
+              "path": "mods/tiptapshow-2.0.0+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/VXFg68YU/versions/eHR1aj3G/hitcolor-1.1.0%2Bmc26.3.jar"
+              ],
+              "fileSize": 24734,
+              "hashes": {
+                "sha1": "3ad956c86810b22e8f28c99e6998892582f17f12",
+                "sha512": "4a70b5753c62e9787e3acc78b3dae43135d03f192e1d9c516a1a2c83265e6c83f64d93e33141028f847930e17e83df652220c9e8f121f44baa1b927754115c9d"
+              },
+              "path": "mods/hitcolor-1.1.0+mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/wdLuzzEP/versions/k6ywOirE/Gamma-Utils-Fabric-3.2.2%2Bmc26.3.jar"
+              ],
+              "fileSize": 103107,
+              "hashes": {
+                "sha1": "98c1ca5bfd1ec3b2ab992323bd3f8fd957b4066d",
+                "sha512": "6cc6029537b7741af1c7b36a9f44e22bf379c4851c4d44918acc24d2d74009d4739eb1a1296078ac2b8d3d9430083b9452a168059d3ca090394656adbad02575"
+              },
+              "path": "mods/Gamma-Utils-Fabric-3.2.2+mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/te2y9qZn/sodium-extra-fabric-0.9.4%2Bmc26.3.jar"
+              ],
+              "fileSize": 465553,
+              "hashes": {
+                "sha1": "ff2056f222b751fe161123e71e55afd5b2f41da4",
+                "sha512": "a2e8d8416a556b7a351460a06407119eaba62f06636377001720bbda9b797dc881b2bb4528fb75a0459fee34475db529858633b6b86b545a72d0f13cf3c2b7bb"
+              },
+              "path": "mods/sodium-extra-fabric-0.9.4+mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/BQOgClUt/versions/aarDEd0H/decentfreelook-1.3%2B26.3.jar"
+              ],
+              "fileSize": 134786,
+              "hashes": {
+                "sha1": "df9f4e5e88381587cc4379a94d5f93c79e7ee9e3",
+                "sha512": "54f2f9f30d361b2ef12ff7e17164976b1e51f6e339ab54cbbd0570fb4d11d550cebbfc76adf01b517d577a4d20898ee1611e0e2dd87d8ca7ed6cdcc0e20d50f3"
+              },
+              "path": "mods/decentfreelook-1.3+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar"
+              ],
+              "fileSize": 1908068,
+              "hashes": {
+                "sha1": "9acfe851e36f4fb27d7c5baa224e8bd4e0334283",
+                "sha512": "f3f260f204b8ce5e8777c2c73f537956755ec61f3817b0b78b5e5568e8aa40f14891f146475075109747665c7c88a45ca0ca9a8df3c68d79c58ecdaa8d8c4b93"
+              },
+              "path": "mods/sodium-fabric-0.9.2+mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+              ],
+              "fileSize": 72677,
+              "hashes": {
+                "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+                "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+              },
+              "path": "mods/ferritecore-9.0.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar"
+              ],
+              "fileSize": 99586,
+              "hashes": {
+                "sha1": "f565bbeb201f2305e81761429d3f1f47e1c3a321",
+                "sha512": "8e139589fd995bce3d485a34d92a07243964212f7ed2e4fc2f6de5b9a74d0f59b03252e7ce40c64e006cf3e21bed5de27b830d33ef048b286e041f6178ad8428"
+              },
+              "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar"
+              ],
+              "fileSize": 1508547,
+              "hashes": {
+                "sha1": "45f47f7a067f5efd733a32767dc3d1d770678b2a",
+                "sha512": "b6209bb62d72376d3fd284da137ec93a6dd38ebe5fd38ab9190deeade68b5b7f4bf915f4abcb4a807afe18cb9f0b59e11be789d46df6f0e6f64388ed2edc284d"
+              },
+              "path": "mods/entityculling-fabric-1.11.3-mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar"
+              ],
+              "fileSize": 189474,
+              "hashes": {
+                "sha1": "a4860c9480f0ce1a468e1e4c254214b1f97e19b3",
+                "sha512": "7976d11411babfa3ac0c38898f26ee6192f22a4f595b637eeae3cc5185f326c0e4b9fd7d00b3d7e8d020dd861295f0df52f9a9d7c67e88946d0ba9fff4a9f894"
+              },
+              "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar"
+              ],
+              "fileSize": 856779,
+              "hashes": {
+                "sha1": "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8",
+                "sha512": "588c0c557963f4778572ee81bfafc190b332c26d5926c5fe7e3e1614dcf8e14f58e3bc80a97694521dd05907e9753a7c8575048ea769e4dbf40a3db74a4e2606"
+              },
+              "path": "mods/modmenu-21.0.0.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/LEklt8GT/fabric-api-0.164.0%2B26.3.jar"
+              ],
+              "fileSize": 1775592,
+              "hashes": {
+                "sha1": "7ec45ba92a286ed7d0c57bcd74cf9182789741ec",
+                "sha512": "2ce7b0826f75801a56e8150eb5ceca467cdf8b4b44e160b5a5381e5412567d024f46a16c679f29c4a9346b2687fa1740f91ed6026a31b2ed1f3d4b5035968d69"
+              },
+              "path": "mods/fabric-api-0.164.0+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/Y8uFrUil/versions/whtjB9LL/ukulib-fabric-2.2.0%2B26.3.jar"
+              ],
+              "fileSize": 451025,
+              "hashes": {
+                "sha1": "7c355375064086913ee95fc1e3337108adbf8d5e",
+                "sha512": "f55c0dcd441d87a41a110eff99a96eab17231d79eaa23fec7f6de243b28d4e1e4659e2c3d8e2b8f13505eba4078645aca47d7351965cef93a3a596dda2c374d1"
+              },
+              "path": "mods/ukulib-fabric-2.2.0+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar"
+              ],
+              "fileSize": 254959,
+              "hashes": {
+                "sha1": "4c455faa6333dbaef72cedbb91fe4a2a03176741",
+                "sha512": "eb2bb31e51068aad2581b7864ea7b11b1209ba1c2b27551cd5837d9b312b818b73bb47c06374b46b99b73401c62c6b6c115f702c55aed6afd467ad8ad6448de4"
+              },
+              "path": "mods/placeholder-api-3.2.0+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar"
+              ],
+              "fileSize": 1125377,
+              "hashes": {
+                "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
+                "sha512": "f3957028dd31cae78f08aee3e768f61bd12c4c8423257d357bc3c1a2172047c769d37901f99775c7ffff1e5ee794025dc72738b2869cab06f1c2811841d68b24"
+              },
+              "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar"
+              ],
+              "fileSize": 1135009,
+              "hashes": {
+                "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
+                "sha512": "8924e19d41845096724fa10f3717bc51964a0edbbbcad0ff1e6c6187a398b08f356e49579a657c2dc44a7f92e3850771f3ca70bf8c1f654de60425163b91dbb1"
+              },
+              "path": "mods/cloth-config-fabric-26.3.159.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/ehZrmfH1/55bd9da55c6c10667b7af90eb16e5de00f813132_96.webp",
+              "id": "ehZrmfH1",
+              "modrinth": {
+                "projectId": "ehZrmfH1",
+                "versionId": "2tR7gDAe"
+              },
+              "pageUrl": "https://modrinth.com/project/ehZrmfH1",
+              "path": "resourcepacks/PvP Basics 2.3.1.zip",
+              "summary": "Alçak ateş, küçük kalkan ve totem, daha az duman.",
+              "title": "PvP Basics"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/BpaObV8j/d9d9cbbc91ee857af2aad5b11803c9a94975160d.png",
+              "id": "BpaObV8j",
+              "modrinth": {
+                "projectId": "BpaObV8j",
+                "versionId": "TSnvYpcx"
+              },
+              "pageUrl": "https://modrinth.com/project/BpaObV8j",
+              "path": "resourcepacks/shorterswords.zip",
+              "summary": "Daha kısa kılıçlar.",
+              "title": "PvP Swords"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": false,
+              "iconUrl": "https://cdn.modrinth.com/data/uFGhGxal/ed273bdaa07cf207bdc5a126f5e478433f64f317.png",
+              "id": "uFGhGxal",
+              "modrinth": {
+                "projectId": "uFGhGxal",
+                "versionId": "vSay7e9U"
+              },
+              "pageUrl": "https://modrinth.com/project/uFGhGxal",
+              "path": "resourcepacks/PvP Crosshair.zip",
+              "summary": "Sade bir nişangâh.",
+              "title": "PvP Crosshair"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/8bOImuGU/4b8c010483f236c957b9e85cf24dfa7483739c02_96.webp",
+              "id": "8bOImuGU",
+              "modrinth": {
+                "projectId": "8bOImuGU",
+                "versionId": "NG757h5m"
+              },
+              "pageUrl": "https://modrinth.com/project/8bOImuGU",
+              "path": "mods/logical_zoom-0.0.37.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Yakınlaştırma tuşu.",
+              "title": "Logical Zoom"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+              "id": "EsAfCjCV",
+              "modrinth": {
+                "projectId": "EsAfCjCV",
+                "versionId": "PHjDtQay"
+              },
+              "pageUrl": "https://modrinth.com/project/EsAfCjCV",
+              "path": "mods/appleskin-fabric-mc26.3-3.0.10.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Açlığı ve doygunluğu gösterir.",
+              "title": "AppleSkin"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/wF189hn9/a790ea8edc940ba6fd6bb92f298a19e438904e4a.png",
+              "id": "wF189hn9",
+              "modrinth": {
+                "projectId": "wF189hn9",
+                "versionId": "URl1E7bP"
+              },
+              "pageUrl": "https://modrinth.com/project/wF189hn9",
+              "path": "mods/ukus-armor-hud-fabric-0.14.0+mc26.3.jar",
+              "requires": [
+                "Y8uFrUil"
+              ],
+              "summary": "Zırhının dayanıklılığı ekranda.",
+              "title": "uku's Armor HUD"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/T9FDHbY5/icon.png",
+              "id": "T9FDHbY5",
+              "modrinth": {
+                "projectId": "T9FDHbY5",
+                "versionId": "NfHPutHW"
+              },
+              "pageUrl": "https://modrinth.com/project/T9FDHbY5",
+              "path": "mods/statuseffecttimer-2.0.0+26.3.jar",
+              "summary": "Efektlerin kalan süresi simgelerde.",
+              "title": "Status Effect Timer"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/lIQY64qr/e88ebb29d14977560caa8998d1e5c939af100ea5_96.webp",
+              "id": "lIQY64qr",
+              "modrinth": {
+                "projectId": "lIQY64qr",
+                "versionId": "5oHE9POI"
+              },
+              "pageUrl": "https://modrinth.com/project/lIQY64qr",
+              "path": "mods/tiptapshow-2.0.0+26.3.jar",
+              "requires": [
+                "P7dR8mSH",
+                "1eAoo2KR"
+              ],
+              "summary": "Bastığın tuşları ekranda gösterir.",
+              "title": "TipTapShow"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": false,
+              "iconUrl": "https://cdn.modrinth.com/data/VXFg68YU/e6388cd0cc58ecd3141fd048bd6b85111953c1c9_96.webp",
+              "id": "VXFg68YU",
+              "modrinth": {
+                "projectId": "VXFg68YU",
+                "versionId": "eHR1aj3G"
+              },
+              "pageUrl": "https://modrinth.com/project/VXFg68YU",
+              "path": "mods/hitcolor-1.1.0+mc26.3.jar",
+              "requires": [
+                "mOgUt4GM",
+                "1eAoo2KR"
+              ],
+              "summary": "Vuruş rengini sen seçersin.",
+              "title": "HitColor"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/wdLuzzEP/b6014c210bbedacf610f7d2dba55149dae9677c8.png",
+              "id": "wdLuzzEP",
+              "modrinth": {
+                "projectId": "wdLuzzEP",
+                "versionId": "k6ywOirE"
+              },
+              "pageUrl": "https://modrinth.com/project/wdLuzzEP",
+              "path": "mods/Gamma-Utils-Fabric-3.2.2+mc26.3.jar",
+              "requires": [
+                "P7dR8mSH",
+                "9s6osm5g"
+              ],
+              "summary": "Parlaklığı tek tuşla açar.",
+              "title": "Gamma Utils"
+            },
+            {
+              "category": "visual",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/PtjYWJkn/0df4fb22a11e1dcb5e83cb0aadd275b571aca7a9_96.webp",
+              "id": "PtjYWJkn",
+              "modrinth": {
+                "projectId": "PtjYWJkn",
+                "versionId": "te2y9qZn"
+              },
+              "pageUrl": "https://modrinth.com/project/PtjYWJkn",
+              "path": "mods/sodium-extra-fabric-0.9.4+mc26.3.jar",
+              "requires": [
+                "AANobbMI"
+              ],
+              "summary": "Sisi kapatma ve FPS göstergesi gibi ayarlar.",
+              "title": "Sodium Extra"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/BQOgClUt/87575f41e8ae6d05516280214a9551171969f511_96.webp",
+              "id": "BQOgClUt",
+              "modrinth": {
+                "projectId": "BQOgClUt",
+                "versionId": "aarDEd0H"
+              },
+              "pageUrl": "https://modrinth.com/project/BQOgClUt",
+              "path": "mods/decentfreelook-1.3+26.3.jar",
+              "summary": "Karakterini döndürmeden etrafına bakarsın.",
+              "title": "Decent Freelook"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+              "id": "AANobbMI",
+              "modrinth": {
+                "projectId": "AANobbMI",
+                "versionId": "bAZQdGpg"
+              },
+              "pageUrl": "https://modrinth.com/project/AANobbMI",
+              "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
+              "summary": "Daha yüksek ve kararlı FPS.",
+              "title": "Sodium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+              "id": "uXXizFIs",
+              "modrinth": {
+                "projectId": "uXXizFIs",
+                "versionId": "d5ddUdiB"
+              },
+              "pageUrl": "https://modrinth.com/project/uXXizFIs",
+              "path": "mods/ferritecore-9.0.0-fabric.jar",
+              "summary": "Daha az bellek kullanır.",
+              "title": "FerriteCore"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+              "id": "5ZwdcRci",
+              "modrinth": {
+                "projectId": "5ZwdcRci",
+                "versionId": "3MP9UR23"
+              },
+              "pageUrl": "https://modrinth.com/project/5ZwdcRci",
+              "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar",
+              "summary": "Arayüzü ve yazıları daha hızlı çizer.",
+              "title": "ImmediatelyFast"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+              "id": "NNAgCjsB",
+              "modrinth": {
+                "projectId": "NNAgCjsB",
+                "versionId": "X1g3VhTx"
+              },
+              "pageUrl": "https://modrinth.com/project/NNAgCjsB",
+              "path": "mods/entityculling-fabric-1.11.3-mc26.3.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Görünmeyen varlıkları çizmez.",
+              "title": "Entity Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+              "id": "LQ3K71Q1",
+              "modrinth": {
+                "projectId": "LQ3K71Q1",
+                "versionId": "Jwq069rR"
+              },
+              "pageUrl": "https://modrinth.com/project/LQ3K71Q1",
+              "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Oyun arkadayken FPS'i kısar.",
+              "title": "Dynamic FPS"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+              "id": "mOgUt4GM",
+              "modrinth": {
+                "projectId": "mOgUt4GM",
+                "versionId": "kyy7dbrZ"
+              },
+              "pageUrl": "https://modrinth.com/project/mOgUt4GM",
+              "path": "mods/modmenu-21.0.0.jar",
+              "requires": [
+                "eXts2L7r",
+                "P7dR8mSH"
+              ],
+              "summary": "Mod ayarlarına oyunun içinden ulaş.",
+              "title": "Mod Menu"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+              "id": "P7dR8mSH",
+              "library": true,
+              "modrinth": {
+                "projectId": "P7dR8mSH",
+                "versionId": "LEklt8GT"
+              },
+              "pageUrl": "https://modrinth.com/project/P7dR8mSH",
+              "path": "mods/fabric-api-0.164.0+26.3.jar",
+              "title": "Fabric API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/Y8uFrUil/3306adc6d3ba21b11bb14f06f00c21cd5f47e506.webp",
+              "id": "Y8uFrUil",
+              "library": true,
+              "modrinth": {
+                "projectId": "Y8uFrUil",
+                "versionId": "whtjB9LL"
+              },
+              "pageUrl": "https://modrinth.com/project/Y8uFrUil",
+              "path": "mods/ukulib-fabric-2.2.0+26.3.jar",
+              "title": "ukulib"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+              "id": "eXts2L7r",
+              "library": true,
+              "modrinth": {
+                "projectId": "eXts2L7r",
+                "versionId": "lXytLqWj"
+              },
+              "pageUrl": "https://modrinth.com/project/eXts2L7r",
+              "path": "mods/placeholder-api-3.2.0+26.3.jar",
+              "title": "Text Placeholder API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+              "id": "1eAoo2KR",
+              "library": true,
+              "modrinth": {
+                "projectId": "1eAoo2KR",
+                "versionId": "s9SjoFu1"
+              },
+              "pageUrl": "https://modrinth.com/project/1eAoo2KR",
+              "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "title": "YetAnotherConfigLib (YACL)"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+              "id": "9s6osm5g",
+              "library": true,
+              "modrinth": {
+                "projectId": "9s6osm5g",
+                "versionId": "fg2uyxOW"
+              },
+              "pageUrl": "https://modrinth.com/project/9s6osm5g",
+              "path": "mods/cloth-config-fabric-26.3.159.jar",
+              "title": "Cloth Config API"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "en": {
+        "name": "Performance",
+        "summary": "Higher FPS and less memory; the game looks the same."
+      },
+      "id": "performans",
+      "name": "Performans",
+      "purpose": "performance",
+      "summary": "Daha yüksek FPS ve daha az bellek; oyunun görünüşü değişmez.",
+      "variants": [
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.1.2"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/tZQ3jqnf/sodium-fabric-0.9.2%2Bmc26.1.2.jar"
+              ],
+              "fileSize": 1940135,
+              "hashes": {
+                "sha1": "d107b02081262e243e80559192a2de86007155d6",
+                "sha512": "9a3cbc8111979fb2cada74d4df24867f4a8a76053b28d76796f0d1c9156cfc96c4f7d88b07072aea8d9574d46b5bc3ebf3b4d23c09c501f0089ee37681743475"
+              },
+              "path": "mods/sodium-fabric-0.9.2+mc26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Oqq8TOAV/lithium-fabric-0.24.7%2Bmc26.1.2.jar"
+              ],
+              "fileSize": 912821,
+              "hashes": {
+                "sha1": "7959f418969ee8bfe50c0f21f352ed08b382f133",
+                "sha512": "37240bdbf93c19fdc6aa632d89223639f0ef9d923ee1793b33d624946b0482cc972834049ed07d71db3494e16c9de68e755937aac7c4ac5d7291bd38c1425899"
+              },
+              "path": "mods/lithium-fabric-0.24.7+mc26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+              ],
+              "fileSize": 72677,
+              "hashes": {
+                "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+                "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+              },
+              "path": "mods/ferritecore-9.0.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/xOA9hbpf/ImmediatelyFast-Fabric-1.15.3%2B26.1.jar"
+              ],
+              "fileSize": 310057,
+              "hashes": {
+                "sha1": "0bc5865bcb7f2f09d85559a58fccddcfd335f44d",
+                "sha512": "b665037aee8e76e330f068f640b340b97ce8c0c0e940dfccda8a5b00f772dfa9b2d20594bb950e4f2595b359ad3c27190a4d998da28d4507a9747ab507980d11"
+              },
+              "path": "mods/ImmediatelyFast-Fabric-1.15.3+26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/VhQ51u7a/entityculling-fabric-1.11.3-mc26.1.jar"
+              ],
+              "fileSize": 1506721,
+              "hashes": {
+                "sha1": "31cb6f12d73c4b2613fbe61cb3d4483a8c1c786d",
+                "sha512": "fa0ffcfea876243b860f582c7304454f7e4063052fdac2931fbd13f5c9e79ba4d47a0f1249af10c0829107126295b25fd664215bc73cd6f7706ec8f9fe3c80c4"
+              },
+              "path": "mods/entityculling-fabric-1.11.3-mc26.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/51shyZVL/versions/PX8FzP3c/moreculling-fabric-26.1.2-1.7.3.jar"
+              ],
+              "fileSize": 360749,
+              "hashes": {
+                "sha1": "1155f693ca85a925f790cabac2ef9b1f5984283d",
+                "sha512": "cee2e5e895a034f99fb13eb9b79bc149cbf3baa3dc18195f97a50cd84a2dfc3125a061805e0e0de08bca7e8fdd7c17c99ddd1f22253aad7544bd65a133aacf80"
+              },
+              "path": "mods/moreculling-fabric-26.1.2-1.7.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/HV67Kt1R/dynamic-fps-3.11.7%2Bminecraft-26.1.0-fabric.jar"
+              ],
+              "fileSize": 187418,
+              "hashes": {
+                "sha1": "2ed66a7f5cf81c8f4b17a551a1f7371ef99a45f7",
+                "sha512": "5feb34934f1f20d0fe65546f65084e9c59ed0ec8e9e80e91dd3ed80dbfc70212bf8cf31f078dc9e7a429edbe5f63774b200c8bd50c8726c4bcd9c74d9b696ab5"
+              },
+              "path": "mods/dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/g96Z4WVZ/versions/gjIvugXc/BadOptimizations-2.4.1-26.1-fabric.jar"
+              ],
+              "fileSize": 61928,
+              "hashes": {
+                "sha1": "9636073ca8f378ea796b5d13bffac146a7f2f0f3",
+                "sha512": "efba144dec306767da3aceb4b179e093daa60bc4c0ba6295d64c166092b8f62e4a4cc63a5bae76fb4c608f1dffa8ecd70c6884e48c804915e1b37ef042e31a99"
+              },
+              "path": "mods/BadOptimizations-2.4.1-26.1-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/ZJ6YTrMY/modmenu-18.0.2.jar"
+              ],
+              "fileSize": 859999,
+              "hashes": {
+                "sha1": "8fa5f0c6e844f44bfd836197b680ee6ea0006bcd",
+                "sha512": "37393e1d4a23a548463e92eb0687af69034ee7c308bd1d2d27d78df0292f124c4463f19d4b53128b59cda4e02d01d7ae09f06456d10abde19b6e450163e50e97"
+              },
+              "path": "mods/modmenu-18.0.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/3dM0X6ou/fabric-api-0.155.3%2B26.1.2.jar"
+              ],
+              "fileSize": 2521340,
+              "hashes": {
+                "sha1": "16c30dfcceaed1ac3b6ac84cbd348a906dc5093e",
+                "sha512": "fa0308b42e9cd0dc3ff946f246d199d74547e0c946d7e3c9780a2537155307baf25129f69bd1349273babf879ffb4608b7e4af0740938f9c0f7b371b1c67d6ca"
+              },
+              "path": "mods/fabric-api-0.155.3+26.1.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/GFM8zh9J/cloth-config-26.1.154.jar"
+              ],
+              "fileSize": 1135373,
+              "hashes": {
+                "sha1": "832f9047bc4af13587709c74f7c37e1c8579d1eb",
+                "sha512": "8bfb75f2cac0a9910316c6a368a228c0f8f1261ac6f03dec5fba594e1619ac04334a3df4fb29778d61d0b8290d55949371a523d722b35501bf9a2902956d3b17"
+              },
+              "path": "mods/cloth-config-26.1.154.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/eXts2L7r/versions/b3IPAHgB/placeholder-api-3.0.0%2B26.1.jar"
+              ],
+              "fileSize": 254376,
+              "hashes": {
+                "sha1": "c1ce548549ec4517b9393985cefc65389e6f36d8",
+                "sha512": "b559da0f13fef17967f2aff1d06b00995c7db21d9d5b7b580ab6eafdf2365e4ac86a7d094c2b481160a942f291bc2595f2cb8c91ce5e169f1c2f461782ecd2a8"
+              },
+              "path": "mods/placeholder-api-3.0.0+26.1.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+              "id": "AANobbMI",
+              "modrinth": {
+                "projectId": "AANobbMI",
+                "versionId": "tZQ3jqnf"
+              },
+              "pageUrl": "https://modrinth.com/project/AANobbMI",
+              "path": "mods/sodium-fabric-0.9.2+mc26.1.2.jar",
+              "summary": "Daha yüksek ve kararlı FPS.",
+              "title": "Sodium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+              "id": "gvQqBUqZ",
+              "modrinth": {
+                "projectId": "gvQqBUqZ",
+                "versionId": "Oqq8TOAV"
+              },
+              "pageUrl": "https://modrinth.com/project/gvQqBUqZ",
+              "path": "mods/lithium-fabric-0.24.7+mc26.1.2.jar",
+              "summary": "Oyun mantığını hızlandırır.",
+              "title": "Lithium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+              "id": "uXXizFIs",
+              "modrinth": {
+                "projectId": "uXXizFIs",
+                "versionId": "d5ddUdiB"
+              },
+              "pageUrl": "https://modrinth.com/project/uXXizFIs",
+              "path": "mods/ferritecore-9.0.0-fabric.jar",
+              "summary": "Daha az bellek kullanır.",
+              "title": "FerriteCore"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+              "id": "5ZwdcRci",
+              "modrinth": {
+                "projectId": "5ZwdcRci",
+                "versionId": "xOA9hbpf"
+              },
+              "pageUrl": "https://modrinth.com/project/5ZwdcRci",
+              "path": "mods/ImmediatelyFast-Fabric-1.15.3+26.1.jar",
+              "summary": "Arayüzü ve yazıları daha hızlı çizer.",
+              "title": "ImmediatelyFast"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+              "id": "NNAgCjsB",
+              "modrinth": {
+                "projectId": "NNAgCjsB",
+                "versionId": "VhQ51u7a"
+              },
+              "pageUrl": "https://modrinth.com/project/NNAgCjsB",
+              "path": "mods/entityculling-fabric-1.11.3-mc26.1.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Görünmeyen varlıkları çizmez.",
+              "title": "Entity Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp",
+              "id": "51shyZVL",
+              "modrinth": {
+                "projectId": "51shyZVL",
+                "versionId": "PX8FzP3c"
+              },
+              "pageUrl": "https://modrinth.com/project/51shyZVL",
+              "path": "mods/moreculling-fabric-26.1.2-1.7.3.jar",
+              "requires": [
+                "9s6osm5g"
+              ],
+              "summary": "Görünmeyen blokları çizmez.",
+              "title": "More Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+              "id": "LQ3K71Q1",
+              "modrinth": {
+                "projectId": "LQ3K71Q1",
+                "versionId": "HV67Kt1R"
+              },
+              "pageUrl": "https://modrinth.com/project/LQ3K71Q1",
+              "path": "mods/dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Oyun arkadayken FPS'i kısar.",
+              "title": "Dynamic FPS"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "id": "g96Z4WVZ",
+              "modrinth": {
+                "projectId": "g96Z4WVZ",
+                "versionId": "gjIvugXc"
+              },
+              "pageUrl": "https://modrinth.com/project/g96Z4WVZ",
+              "path": "mods/BadOptimizations-2.4.1-26.1-fabric.jar",
+              "summary": "Küçük ama sürekli hızlandırmalar.",
+              "title": "BadOptimizations"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+              "id": "mOgUt4GM",
+              "modrinth": {
+                "projectId": "mOgUt4GM",
+                "versionId": "ZJ6YTrMY"
+              },
+              "pageUrl": "https://modrinth.com/project/mOgUt4GM",
+              "path": "mods/modmenu-18.0.2.jar",
+              "requires": [
+                "P7dR8mSH",
+                "eXts2L7r"
+              ],
+              "summary": "Mod ayarlarına oyunun içinden ulaş.",
+              "title": "Mod Menu"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+              "id": "P7dR8mSH",
+              "library": true,
+              "modrinth": {
+                "projectId": "P7dR8mSH",
+                "versionId": "3dM0X6ou"
+              },
+              "pageUrl": "https://modrinth.com/project/P7dR8mSH",
+              "path": "mods/fabric-api-0.155.3+26.1.2.jar",
+              "title": "Fabric API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+              "id": "9s6osm5g",
+              "library": true,
+              "modrinth": {
+                "projectId": "9s6osm5g",
+                "versionId": "GFM8zh9J"
+              },
+              "pageUrl": "https://modrinth.com/project/9s6osm5g",
+              "path": "mods/cloth-config-26.1.154.jar",
+              "title": "Cloth Config API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+              "id": "eXts2L7r",
+              "library": true,
+              "modrinth": {
+                "projectId": "eXts2L7r",
+                "versionId": "b3IPAHgB"
+              },
+              "pageUrl": "https://modrinth.com/project/eXts2L7r",
+              "path": "mods/placeholder-api-3.0.0+26.1.jar",
+              "title": "Text Placeholder API"
+            }
+          ]
+        },
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.2"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar"
+              ],
+              "fileSize": 1885572,
+              "hashes": {
+                "sha1": "62a70961a5b3e06938e06ab5f2dc4c5a51cf3323",
+                "sha512": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c"
+              },
+              "path": "mods/sodium-fabric-0.9.2+mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar"
+              ],
+              "fileSize": 912850,
+              "hashes": {
+                "sha1": "435ad0289209bb72195e7a423756a03f5dfa5a9a",
+                "sha512": "148b638f3c6229fbaf487120a2344a0af5e411a5aa6533d5db9d75da0a8c0d8304f63eb4cca13f4d03b2c9b4c23d559dd74c1d832422ef8a3087bd005e62a8bd"
+              },
+              "path": "mods/lithium-fabric-0.25.3+mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+              ],
+              "fileSize": 72677,
+              "hashes": {
+                "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+                "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+              },
+              "path": "mods/ferritecore-9.0.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/pMWERcSu/ImmediatelyFast-Fabric-1.16.5%2B26.2.jar"
+              ],
+              "fileSize": 100500,
+              "hashes": {
+                "sha1": "0286260261591fe77ba0d332d5d5a2d2e868c2c6",
+                "sha512": "5836b089072c0fd796613d42c3bd01c7e401b6ad53de80328bb9d74d585de9be0ff0cfc4d6ffa1ed41008750573b0525eff8c064162a2f724ad16817a8fdaf22"
+              },
+              "path": "mods/ImmediatelyFast-Fabric-1.16.5+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/uXe0pIaz/entityculling-fabric-1.11.3-mc26.2.jar"
+              ],
+              "fileSize": 1508596,
+              "hashes": {
+                "sha1": "a2210d12bdeac78daf7bb2fdc6b5d85448642cdf",
+                "sha512": "18ca7ea525144dac9474a1b178eb21baf3dcfc182618811dfca535833faece3b4c74eb8ee026c95b6dbabd084b8b3075a51d319de512caedd24595d5dd10cd30"
+              },
+              "path": "mods/entityculling-fabric-1.11.3-mc26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/51shyZVL/versions/D5oVCouK/moreculling-fabric-26.2-1.8.1.jar"
+              ],
+              "fileSize": 363646,
+              "hashes": {
+                "sha1": "189d90ef598883df8197ea18b510dba21e69bac4",
+                "sha512": "9c331ba5f2ce9c322c41aa577f1029f3420d5507d0d942aadbb43fb9bd82e7da6f72e3a0b26c4ad96394669a99a7feb512b5119b3095fde2e0a437bf68c08b40"
+              },
+              "path": "mods/moreculling-fabric-26.2-1.8.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pC2JjFw1/dynamic-fps-3.11.9%2Bminecraft-26.2.0-fabric.jar"
+              ],
+              "fileSize": 188740,
+              "hashes": {
+                "sha1": "e8cd9e4fbc6d42091faffc873b0801f1189ed6a5",
+                "sha512": "79b13548d7e9de9abfa23e062724a885e5341f371c500d6570056ecea7db00c2f7ace5a7288179ad8baec575b4aa992b91dccbc940c584cb5cddf0bc7aeb892f"
+              },
+              "path": "mods/dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/g96Z4WVZ/versions/JmPs4Wie/BadOptimizations-2.4.1-26.2-fabric.jar"
+              ],
+              "fileSize": 60709,
+              "hashes": {
+                "sha1": "b36b001f869d04245523807d9ccb26a085f243b4",
+                "sha512": "f91c409d4ce68d027ac0a11b6d2828c5f6d057e749ff0ce596f3a84a65fc1e3905b08f4d97a21a7302e2bfaf4ff865907272bd9c7ffa8487701b22e40dfe2f97"
+              },
+              "path": "mods/BadOptimizations-2.4.1-26.2-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/iRo7AZXf/modmenu-20.0.3.jar"
+              ],
+              "fileSize": 616919,
+              "hashes": {
+                "sha1": "9fc381627b471c18d67156e846228f51ff2ea5b4",
+                "sha512": "c8224aa7a460d0c56ccb9978a112e4ad0d3eb17e2796e0c468a2392d220749f4f602838a11b3666145462c26078a879ab8a2fc177aa440f58e189c92a0088d6e"
+              },
+              "path": "mods/modmenu-20.0.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/ewUK83HI/fabric-api-0.161.0%2B26.2.jar"
+              ],
+              "fileSize": 2566123,
+              "hashes": {
+                "sha1": "332da34ebb72171e603a0c538de17f4c54ea9e29",
+                "sha512": "2502fa5ade78e9a120b3747bc1a9a2167d6671743bea45bf115d3174c94121aeda87c549446d1a604a9c11fb828de17a551e3514ce42f3e93069dd14bdaee55b"
+              },
+              "path": "mods/fabric-api-0.161.0+26.2.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
+              ],
+              "fileSize": 1135186,
+              "hashes": {
+                "sha1": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e",
+                "sha512": "37b1e402f0df5a383656e21a38ee18cdd15cb4ba3fb62fbeba82ef4b959a4479fc32718ac0d9d154a7d9104c5f7315bfa67dbeced0b8ff240b8039d4848d5df1"
+              },
+              "path": "mods/cloth-config-26.2.155.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar"
+              ],
+              "fileSize": 254973,
+              "hashes": {
+                "sha1": "99b57ccc1d4323c4ef71887828dac25ce4ce2103",
+                "sha512": "07b6fc802559d54ec6577f6e2788926ef391d755206c2bfb0528280977885cae4bc0c517d8a53eb6f34092015ebe6c41210627d255aa6504662daefa8fb76397"
+              },
+              "path": "mods/placeholder-api-3.1.0-beta.1+26.2.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+              "id": "AANobbMI",
+              "modrinth": {
+                "projectId": "AANobbMI",
+                "versionId": "xJZxADzI"
+              },
+              "pageUrl": "https://modrinth.com/project/AANobbMI",
+              "path": "mods/sodium-fabric-0.9.2+mc26.2.jar",
+              "summary": "Daha yüksek ve kararlı FPS.",
+              "title": "Sodium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+              "id": "gvQqBUqZ",
+              "modrinth": {
+                "projectId": "gvQqBUqZ",
+                "versionId": "f7vZ0VWU"
+              },
+              "pageUrl": "https://modrinth.com/project/gvQqBUqZ",
+              "path": "mods/lithium-fabric-0.25.3+mc26.2.jar",
+              "summary": "Oyun mantığını hızlandırır.",
+              "title": "Lithium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+              "id": "uXXizFIs",
+              "modrinth": {
+                "projectId": "uXXizFIs",
+                "versionId": "d5ddUdiB"
+              },
+              "pageUrl": "https://modrinth.com/project/uXXizFIs",
+              "path": "mods/ferritecore-9.0.0-fabric.jar",
+              "summary": "Daha az bellek kullanır.",
+              "title": "FerriteCore"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+              "id": "5ZwdcRci",
+              "modrinth": {
+                "projectId": "5ZwdcRci",
+                "versionId": "pMWERcSu"
+              },
+              "pageUrl": "https://modrinth.com/project/5ZwdcRci",
+              "path": "mods/ImmediatelyFast-Fabric-1.16.5+26.2.jar",
+              "summary": "Arayüzü ve yazıları daha hızlı çizer.",
+              "title": "ImmediatelyFast"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+              "id": "NNAgCjsB",
+              "modrinth": {
+                "projectId": "NNAgCjsB",
+                "versionId": "uXe0pIaz"
+              },
+              "pageUrl": "https://modrinth.com/project/NNAgCjsB",
+              "path": "mods/entityculling-fabric-1.11.3-mc26.2.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Görünmeyen varlıkları çizmez.",
+              "title": "Entity Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp",
+              "id": "51shyZVL",
+              "modrinth": {
+                "projectId": "51shyZVL",
+                "versionId": "D5oVCouK"
+              },
+              "pageUrl": "https://modrinth.com/project/51shyZVL",
+              "path": "mods/moreculling-fabric-26.2-1.8.1.jar",
+              "requires": [
+                "9s6osm5g"
+              ],
+              "summary": "Görünmeyen blokları çizmez.",
+              "title": "More Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+              "id": "LQ3K71Q1",
+              "modrinth": {
+                "projectId": "LQ3K71Q1",
+                "versionId": "pC2JjFw1"
+              },
+              "pageUrl": "https://modrinth.com/project/LQ3K71Q1",
+              "path": "mods/dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Oyun arkadayken FPS'i kısar.",
+              "title": "Dynamic FPS"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "id": "g96Z4WVZ",
+              "modrinth": {
+                "projectId": "g96Z4WVZ",
+                "versionId": "JmPs4Wie"
+              },
+              "pageUrl": "https://modrinth.com/project/g96Z4WVZ",
+              "path": "mods/BadOptimizations-2.4.1-26.2-fabric.jar",
+              "summary": "Küçük ama sürekli hızlandırmalar.",
+              "title": "BadOptimizations"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+              "id": "mOgUt4GM",
+              "modrinth": {
+                "projectId": "mOgUt4GM",
+                "versionId": "iRo7AZXf"
+              },
+              "pageUrl": "https://modrinth.com/project/mOgUt4GM",
+              "path": "mods/modmenu-20.0.3.jar",
+              "requires": [
+                "P7dR8mSH",
+                "eXts2L7r"
+              ],
+              "summary": "Mod ayarlarına oyunun içinden ulaş.",
+              "title": "Mod Menu"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+              "id": "P7dR8mSH",
+              "library": true,
+              "modrinth": {
+                "projectId": "P7dR8mSH",
+                "versionId": "ewUK83HI"
+              },
+              "pageUrl": "https://modrinth.com/project/P7dR8mSH",
+              "path": "mods/fabric-api-0.161.0+26.2.jar",
+              "title": "Fabric API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+              "id": "9s6osm5g",
+              "library": true,
+              "modrinth": {
+                "projectId": "9s6osm5g",
+                "versionId": "Nv3xnWXd"
+              },
+              "pageUrl": "https://modrinth.com/project/9s6osm5g",
+              "path": "mods/cloth-config-26.2.155.jar",
+              "title": "Cloth Config API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+              "id": "eXts2L7r",
+              "library": true,
+              "modrinth": {
+                "projectId": "eXts2L7r",
+                "versionId": "NDqH16LT"
+              },
+              "pageUrl": "https://modrinth.com/project/eXts2L7r",
+              "path": "mods/placeholder-api-3.1.0-beta.1+26.2.jar",
+              "title": "Text Placeholder API"
+            }
+          ]
+        },
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.3"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar"
+              ],
+              "fileSize": 1908068,
+              "hashes": {
+                "sha1": "9acfe851e36f4fb27d7c5baa224e8bd4e0334283",
+                "sha512": "f3f260f204b8ce5e8777c2c73f537956755ec61f3817b0b78b5e5568e8aa40f14891f146475075109747665c7c88a45ca0ca9a8df3c68d79c58ecdaa8d8c4b93"
+              },
+              "path": "mods/sodium-fabric-0.9.2+mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar"
+              ],
+              "fileSize": 914543,
+              "hashes": {
+                "sha1": "dd5a4ec2c68d7601d8bce9076f789c55a5f8bef3",
+                "sha512": "4d7fee66132eedc71feab9390b92c95d7058edbdad0fecfac1d836a2950b97a7ca463afbede61c7ef361ce65e1f927ab9e89dde5bf2e0e0ce486afb5c5dbee40"
+              },
+              "path": "mods/lithium-fabric-0.26.2+mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+              ],
+              "fileSize": 72677,
+              "hashes": {
+                "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+                "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+              },
+              "path": "mods/ferritecore-9.0.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar"
+              ],
+              "fileSize": 99586,
+              "hashes": {
+                "sha1": "f565bbeb201f2305e81761429d3f1f47e1c3a321",
+                "sha512": "8e139589fd995bce3d485a34d92a07243964212f7ed2e4fc2f6de5b9a74d0f59b03252e7ce40c64e006cf3e21bed5de27b830d33ef048b286e041f6178ad8428"
+              },
+              "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar"
+              ],
+              "fileSize": 1508547,
+              "hashes": {
+                "sha1": "45f47f7a067f5efd733a32767dc3d1d770678b2a",
+                "sha512": "b6209bb62d72376d3fd284da137ec93a6dd38ebe5fd38ab9190deeade68b5b7f4bf915f4abcb4a807afe18cb9f0b59e11be789d46df6f0e6f64388ed2edc284d"
+              },
+              "path": "mods/entityculling-fabric-1.11.3-mc26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/51shyZVL/versions/t7vAlfgO/moreculling-fabric-26.3-1.9.0.jar"
+              ],
+              "fileSize": 294320,
+              "hashes": {
+                "sha1": "7308b0b0b6fffb0e076cabf97db7fc889d9ada68",
+                "sha512": "b1975ef43606a3baa1c93a040fbef96abfbf46ae6a1e364c60effd03a42568f945ede0bde329241e87adc6a9c2769dd1d13ad286869c689018035eff677442b2"
+              },
+              "path": "mods/moreculling-fabric-26.3-1.9.0.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar"
+              ],
+              "fileSize": 189474,
+              "hashes": {
+                "sha1": "a4860c9480f0ce1a468e1e4c254214b1f97e19b3",
+                "sha512": "7976d11411babfa3ac0c38898f26ee6192f22a4f595b637eeae3cc5185f326c0e4b9fd7d00b3d7e8d020dd861295f0df52f9a9d7c67e88946d0ba9fff4a9f894"
+              },
+              "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Sp0ctspw/BadOptimizations-2.4.1-26.3-fabric.jar"
+              ],
+              "fileSize": 60760,
+              "hashes": {
+                "sha1": "4cc25ce6217326ff14169f5358921773297e9475",
+                "sha512": "048a0979807afb96bae7801b7445746c985081bb55fab9b80b286036234a9869cc84f83c40ab77a2600b7e06ad44178ee17935b706b751c9b38f87ebc6e180f8"
+              },
+              "path": "mods/BadOptimizations-2.4.1-26.3-fabric.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar"
+              ],
+              "fileSize": 856779,
+              "hashes": {
+                "sha1": "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8",
+                "sha512": "588c0c557963f4778572ee81bfafc190b332c26d5926c5fe7e3e1614dcf8e14f58e3bc80a97694521dd05907e9753a7c8575048ea769e4dbf40a3db74a4e2606"
+              },
+              "path": "mods/modmenu-21.0.0.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/LEklt8GT/fabric-api-0.164.0%2B26.3.jar"
+              ],
+              "fileSize": 1775592,
+              "hashes": {
+                "sha1": "7ec45ba92a286ed7d0c57bcd74cf9182789741ec",
+                "sha512": "2ce7b0826f75801a56e8150eb5ceca467cdf8b4b44e160b5a5381e5412567d024f46a16c679f29c4a9346b2687fa1740f91ed6026a31b2ed1f3d4b5035968d69"
+              },
+              "path": "mods/fabric-api-0.164.0+26.3.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar"
+              ],
+              "fileSize": 1135009,
+              "hashes": {
+                "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
+                "sha512": "8924e19d41845096724fa10f3717bc51964a0edbbbcad0ff1e6c6187a398b08f356e49579a657c2dc44a7f92e3850771f3ca70bf8c1f654de60425163b91dbb1"
+              },
+              "path": "mods/cloth-config-fabric-26.3.159.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar"
+              ],
+              "fileSize": 254959,
+              "hashes": {
+                "sha1": "4c455faa6333dbaef72cedbb91fe4a2a03176741",
+                "sha512": "eb2bb31e51068aad2581b7864ea7b11b1209ba1c2b27551cd5837d9b312b818b73bb47c06374b46b99b73401c62c6b6c115f702c55aed6afd467ad8ad6448de4"
+              },
+              "path": "mods/placeholder-api-3.2.0+26.3.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+              "id": "AANobbMI",
+              "modrinth": {
+                "projectId": "AANobbMI",
+                "versionId": "bAZQdGpg"
+              },
+              "pageUrl": "https://modrinth.com/project/AANobbMI",
+              "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
+              "summary": "Daha yüksek ve kararlı FPS.",
+              "title": "Sodium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+              "id": "gvQqBUqZ",
+              "modrinth": {
+                "projectId": "gvQqBUqZ",
+                "versionId": "xS0Q8LSi"
+              },
+              "pageUrl": "https://modrinth.com/project/gvQqBUqZ",
+              "path": "mods/lithium-fabric-0.26.2+mc26.3.jar",
+              "summary": "Oyun mantığını hızlandırır.",
+              "title": "Lithium"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+              "id": "uXXizFIs",
+              "modrinth": {
+                "projectId": "uXXizFIs",
+                "versionId": "d5ddUdiB"
+              },
+              "pageUrl": "https://modrinth.com/project/uXXizFIs",
+              "path": "mods/ferritecore-9.0.0-fabric.jar",
+              "summary": "Daha az bellek kullanır.",
+              "title": "FerriteCore"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+              "id": "5ZwdcRci",
+              "modrinth": {
+                "projectId": "5ZwdcRci",
+                "versionId": "3MP9UR23"
+              },
+              "pageUrl": "https://modrinth.com/project/5ZwdcRci",
+              "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar",
+              "summary": "Arayüzü ve yazıları daha hızlı çizer.",
+              "title": "ImmediatelyFast"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+              "id": "NNAgCjsB",
+              "modrinth": {
+                "projectId": "NNAgCjsB",
+                "versionId": "X1g3VhTx"
+              },
+              "pageUrl": "https://modrinth.com/project/NNAgCjsB",
+              "path": "mods/entityculling-fabric-1.11.3-mc26.3.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Görünmeyen varlıkları çizmez.",
+              "title": "Entity Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp",
+              "id": "51shyZVL",
+              "modrinth": {
+                "projectId": "51shyZVL",
+                "versionId": "t7vAlfgO"
+              },
+              "pageUrl": "https://modrinth.com/project/51shyZVL",
+              "path": "mods/moreculling-fabric-26.3-1.9.0.jar",
+              "requires": [
+                "9s6osm5g"
+              ],
+              "summary": "Görünmeyen blokları çizmez.",
+              "title": "More Culling"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+              "id": "LQ3K71Q1",
+              "modrinth": {
+                "projectId": "LQ3K71Q1",
+                "versionId": "Jwq069rR"
+              },
+              "pageUrl": "https://modrinth.com/project/LQ3K71Q1",
+              "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar",
+              "requires": [
+                "P7dR8mSH"
+              ],
+              "summary": "Oyun arkadayken FPS'i kısar.",
+              "title": "Dynamic FPS"
+            },
+            {
+              "category": "performance",
+              "defaultEnabled": true,
+              "id": "g96Z4WVZ",
+              "modrinth": {
+                "projectId": "g96Z4WVZ",
+                "versionId": "Sp0ctspw"
+              },
+              "pageUrl": "https://modrinth.com/project/g96Z4WVZ",
+              "path": "mods/BadOptimizations-2.4.1-26.3-fabric.jar",
+              "summary": "Küçük ama sürekli hızlandırmalar.",
+              "title": "BadOptimizations"
+            },
+            {
+              "category": "interface",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+              "id": "mOgUt4GM",
+              "modrinth": {
+                "projectId": "mOgUt4GM",
+                "versionId": "kyy7dbrZ"
+              },
+              "pageUrl": "https://modrinth.com/project/mOgUt4GM",
+              "path": "mods/modmenu-21.0.0.jar",
+              "requires": [
+                "eXts2L7r",
+                "P7dR8mSH"
+              ],
+              "summary": "Mod ayarlarına oyunun içinden ulaş.",
+              "title": "Mod Menu"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+              "id": "P7dR8mSH",
+              "library": true,
+              "modrinth": {
+                "projectId": "P7dR8mSH",
+                "versionId": "LEklt8GT"
+              },
+              "pageUrl": "https://modrinth.com/project/P7dR8mSH",
+              "path": "mods/fabric-api-0.164.0+26.3.jar",
+              "title": "Fabric API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+              "id": "9s6osm5g",
+              "library": true,
+              "modrinth": {
+                "projectId": "9s6osm5g",
+                "versionId": "fg2uyxOW"
+              },
+              "pageUrl": "https://modrinth.com/project/9s6osm5g",
+              "path": "mods/cloth-config-fabric-26.3.159.jar",
+              "title": "Cloth Config API"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+              "id": "eXts2L7r",
+              "library": true,
+              "modrinth": {
+                "projectId": "eXts2L7r",
+                "versionId": "lXytLqWj"
+              },
+              "pageUrl": "https://modrinth.com/project/eXts2L7r",
+              "path": "mods/placeholder-api-3.2.0+26.3.jar",
+              "title": "Text Placeholder API"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "en": {
+        "name": "Build",
+        "summary": "Build with Litematica's schematic in your world. Easy Place stays off: Projects doesn't allow it."
+      },
+      "id": "yapi",
+      "minLauncherVersion": "2.0.1-beta.1.12",
+      "name": "Yapı",
+      "purpose": "other",
+      "summary": "Litematica ile şemayı dünyada görerek inşa et.",
+      "variants": [
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.3"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/bEpr0Arc/versions/ZqV316KY/litematica-fabric-26.3-0.29.1.jar"
+              ],
+              "fileSize": 1972556,
+              "hashes": {
+                "sha1": "2c0e37ef450b7fcea61e0fce482f134d1fe5a9c6",
+                "sha512": "45a8d468463afb97b3fc72efa168024ad69e670e77f5455ecf588583434a1787b32795edf5236579c32c828b02873efb39a4808caa08bbbaf1d8b6b090b160c3"
+              },
+              "path": "mods/litematica-fabric-26.3-0.29.1.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/GcWjdA9I/versions/JX9bESec/malilib-fabric-26.3-0.30.2.jar"
+              ],
+              "fileSize": 2081094,
+              "hashes": {
+                "sha1": "832a00c0d6417d7f195fbe1b1c643bbd4893e64a",
+                "sha512": "8f17a5d70cb2f461aeb540f4a99de01c3351f8d3678d902d3d00cfe5d10c039fdc111c1079fe23aacb7936b793ad1cd045a8dc3a9e7926865820c254d92345b8"
+              },
+              "path": "mods/malilib-fabric-26.3-0.30.2.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "other",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+              "id": "bEpr0Arc",
+              "modrinth": {
+                "projectId": "bEpr0Arc",
+                "versionId": "ZqV316KY"
+              },
+              "pageUrl": "https://modrinth.com/project/bEpr0Arc",
+              "path": "mods/litematica-fabric-26.3-0.29.1.jar",
+              "requires": [
+                "GcWjdA9I"
+              ],
+              "summary": "Şemayı dünyada yarı saydam bloklarla gösterir. Menüsü J tuşunda.",
+              "title": "Litematica"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+              "id": "GcWjdA9I",
+              "library": true,
+              "modrinth": {
+                "projectId": "GcWjdA9I",
+                "versionId": "JX9bESec"
+              },
+              "pageUrl": "https://modrinth.com/project/GcWjdA9I",
+              "path": "mods/malilib-fabric-26.3-0.30.2.jar",
+              "title": "MaLiLib"
+            }
+          ]
+        },
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.2"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/bEpr0Arc/versions/CuniXtbo/litematica-fabric-26.2-0.28.8.jar"
+              ],
+              "fileSize": 1929569,
+              "hashes": {
+                "sha1": "736eda2b7a9f08ef2a104f6a79bce2c2715ecf28",
+                "sha512": "d1c80538f3311b585c9311e59f14fd7fd3eb82288fe5afb399b2139cb35b42d24db7203379f2f61b50a610736335a86dbd395ca1795b001622e6b24dc6fe2a67"
+              },
+              "path": "mods/litematica-fabric-26.2-0.28.8.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/GcWjdA9I/versions/KvjmGjAV/malilib-fabric-26.2-0.29.6.jar"
+              ],
+              "fileSize": 2037195,
+              "hashes": {
+                "sha1": "8e4959313bec2d413ac898d1a030f1d73d419d5a",
+                "sha512": "0fab398f835d9c4736dac65510f707c77a60be6e6051bfd008225c20a5ff13e146296da258bee551d39fa28102b8854d77fa25b2ecb6b0f89fb3c874bac563db"
+              },
+              "path": "mods/malilib-fabric-26.2-0.29.6.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "other",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+              "id": "bEpr0Arc",
+              "modrinth": {
+                "projectId": "bEpr0Arc",
+                "versionId": "CuniXtbo"
+              },
+              "pageUrl": "https://modrinth.com/project/bEpr0Arc",
+              "path": "mods/litematica-fabric-26.2-0.28.8.jar",
+              "requires": [
+                "GcWjdA9I"
+              ],
+              "summary": "Şemayı dünyada yarı saydam bloklarla gösterir. Menüsü J tuşunda.",
+              "title": "Litematica"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+              "id": "GcWjdA9I",
+              "library": true,
+              "modrinth": {
+                "projectId": "GcWjdA9I",
+                "versionId": "KvjmGjAV"
+              },
+              "pageUrl": "https://modrinth.com/project/GcWjdA9I",
+              "path": "mods/malilib-fabric-26.2-0.29.6.jar",
+              "title": "MaLiLib"
+            }
+          ]
+        },
+        {
+          "dependencies": {
+            "fabric-loader": "0.19.5",
+            "minecraft": "26.1.2"
+          },
+          "files": [
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/bEpr0Arc/versions/w8P6TokG/litematica-fabric-26.1.2-0.27.14.jar"
+              ],
+              "fileSize": 1934808,
+              "hashes": {
+                "sha1": "8f6916fdc68349c09f55aa400fd93e730b60abd7",
+                "sha512": "abfee139486726a2c7b380c06e5b3b6bf83945401a77e845787d76371c2e16818edee2cfdbc07ee4b057c8ec50c3acdfa22371ef630228d580cd2d04ecfdbe0e"
+              },
+              "path": "mods/litematica-fabric-26.1.2-0.27.14.jar"
+            },
+            {
+              "downloads": [
+                "https://cdn.modrinth.com/data/GcWjdA9I/versions/FItuNokS/malilib-fabric-26.1.2-0.28.12.jar"
+              ],
+              "fileSize": 2042597,
+              "hashes": {
+                "sha1": "63948feb57a7d3410e5404a23cb7bd1bac25ece2",
+                "sha512": "e1ef04504991f395e30266f2cb006a17ec5657a00b6d84df4d327e486ac35944346e17bcb610d24c98b7ea828cac6f5c80968e09416d73847540dfee8436466a"
+              },
+              "path": "mods/malilib-fabric-26.1.2-0.28.12.jar"
+            }
+          ],
+          "items": [
+            {
+              "category": "other",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+              "id": "bEpr0Arc",
+              "modrinth": {
+                "projectId": "bEpr0Arc",
+                "versionId": "w8P6TokG"
+              },
+              "pageUrl": "https://modrinth.com/project/bEpr0Arc",
+              "path": "mods/litematica-fabric-26.1.2-0.27.14.jar",
+              "requires": [
+                "GcWjdA9I"
+              ],
+              "summary": "Şemayı dünyada yarı saydam bloklarla gösterir. Menüsü J tuşunda.",
+              "title": "Litematica"
+            },
+            {
+              "category": "library",
+              "defaultEnabled": true,
+              "iconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+              "id": "GcWjdA9I",
+              "library": true,
+              "modrinth": {
+                "projectId": "GcWjdA9I",
+                "versionId": "FItuNokS"
+              },
+              "pageUrl": "https://modrinth.com/project/GcWjdA9I",
+              "path": "mods/malilib-fabric-26.1.2-0.28.12.jar",
+              "title": "MaLiLib"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
