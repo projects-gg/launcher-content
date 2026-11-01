@@ -2,57 +2,57 @@
   "afk": {
     "builds": {
       "linux-aarch64": {
-        "path": "afk/4.2.5/linux-aarch64.zip",
-        "sha256": "07d007f1ff698f0b76a4df4f744b930b75d489f5a016a06ded347459893194dc",
-        "size": 126655110,
+        "path": "afk/4.2.7/linux-aarch64.zip",
+        "sha256": "1f1fbb03e747a1d873699b1b942ae60ade41ab8ba25a880b6e58777785a9cfd4",
+        "size": 126642997,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.5/linux-aarch64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.5-linux-aarch64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.7/linux-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.7-linux-aarch64.zip"
         ]
       },
       "linux-x86_64": {
-        "path": "afk/4.2.5/linux-x86_64.zip",
-        "sha256": "a3fe95843463027b6fcd6c3bc3cf8cda46fe4089febbc140a8328a8a3146b935",
-        "size": 135276019,
+        "path": "afk/4.2.7/linux-x86_64.zip",
+        "sha256": "301bfdc10d8fb7b2ed01c90d851125fb3d66a1c53ddfbdafd28876662f149fdc",
+        "size": 135282365,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.5/linux-x86_64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.5-linux-x86_64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.7/linux-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.7-linux-x86_64.zip"
         ]
       },
       "macos-aarch64": {
-        "path": "afk/4.2.5/macos-aarch64.zip",
-        "sha256": "6c4bff79612bb17eb85b1a69f091487f87c58f45854997ad37fe4f1be65e6d61",
-        "size": 72334806,
+        "path": "afk/4.2.7/macos-aarch64.zip",
+        "sha256": "d4edab9c8ec4e3d9e5509c5d46bb43da9f55675a523bbc8af53f75300f53ccee",
+        "size": 72328913,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.5/macos-aarch64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.5-macos-aarch64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.7/macos-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.7-macos-aarch64.zip"
         ]
       },
       "macos-x86_64": {
-        "path": "afk/4.2.5/macos-x86_64.zip",
-        "sha256": "01afaf5e47f43ae0f846a07d5cff1a2e32988d7545151ab46aa56251b178358d",
-        "size": 78151248,
+        "path": "afk/4.2.7/macos-x86_64.zip",
+        "sha256": "5d5f80fa92ebf865239643149cdde60684a57e5cd7a56012f5fb55c76d27dbd9",
+        "size": 78156458,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.5/macos-x86_64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.5-macos-x86_64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.7/macos-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.7-macos-x86_64.zip"
         ]
       },
       "windows-aarch64": {
-        "path": "afk/4.2.5/windows-aarch64.zip",
-        "sha256": "9fad6c42a4959295498d080be5744a0bd6b1f503170bcb63873564b6f45d923a",
-        "size": 68857253,
+        "path": "afk/4.2.7/windows-aarch64.zip",
+        "sha256": "5bfb4bef19cf1449a7caf0cc305e723f53da97efbb5237e2611792ecc5555924",
+        "size": 68854994,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.5/windows-aarch64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.5-windows-aarch64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.7/windows-aarch64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.7-windows-aarch64.zip"
         ]
       },
       "windows-x86_64": {
-        "path": "afk/4.2.5/windows-x86_64.zip",
-        "sha256": "836a6b60abc2811af60c5a83c72eaf17e56221eab28cc66749d832e405ef5304",
-        "size": 71683616,
+        "path": "afk/4.2.7/windows-x86_64.zip",
+        "sha256": "2183f5d4f0e08168b774f9093c7df4bf992bc34a455bd95b70260b8c7e935111",
+        "size": 71684284,
         "urls": [
-          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.5/windows-x86_64.zip",
-          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.5-windows-x86_64.zip"
+          "https://github.com/projects-gg/Projects-Console-Client/releases/download/4.2.7/windows-x86_64.zip",
+          "https://github.com/projects-gg/launcher-content/releases/download/files/afk-4.2.7-windows-x86_64.zip"
         ]
       }
     },
@@ -295,14 +295,14 @@
       }
     ],
     "recommendedMinecraftVersion": "26.3",
-    "version": "4.2.5"
+    "version": "4.2.7"
   },
   "config": {
     "path": "config/launcher.e9cc909a7d805dadc404cf177d76da331a427cdf23841ef8014d31ec1a614838.json",
     "sha256": "e9cc909a7d805dadc404cf177d76da331a427cdf23841ef8014d31ec1a614838",
     "size": 1014
   },
-  "generatedAt": "2026-10-31T18:55:27Z",
+  "generatedAt": "2026-11-01T05:30:10Z",
   "itemArt": {
     "path": "itemart/items.b7f8053872b042f77682f01790dbd016ed1b994d7ff20b2196c1f656ce7c3893.json",
     "sha256": "b7f8053872b042f77682f01790dbd016ed1b994d7ff20b2196c1f656ce7c3893",
@@ -333,5 +333,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1793472927
+  "sequence": 1793511010
 }
