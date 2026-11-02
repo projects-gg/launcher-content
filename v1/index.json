@@ -298,15 +298,15 @@
     "version": "4.2.7"
   },
   "config": {
-    "path": "config/launcher.9668906b8759eff9c515efa9d085cabf1bca5c2156ec5918b18ff20054fe54f9.json",
-    "sha256": "9668906b8759eff9c515efa9d085cabf1bca5c2156ec5918b18ff20054fe54f9",
-    "size": 1211
+    "path": "config/launcher.8ca140aa5ffd409f06fd2e9055c1ef899b6934ef8aa81ce229d834d9c4361457.json",
+    "sha256": "8ca140aa5ffd409f06fd2e9055c1ef899b6934ef8aa81ce229d834d9c4361457",
+    "size": 2464
   },
-  "generatedAt": "2026-11-01T08:15:17Z",
+  "generatedAt": "2026-11-02T20:37:42Z",
   "itemArt": {
-    "path": "itemart/items.b7f8053872b042f77682f01790dbd016ed1b994d7ff20b2196c1f656ce7c3893.json",
-    "sha256": "b7f8053872b042f77682f01790dbd016ed1b994d7ff20b2196c1f656ce7c3893",
-    "size": 524452
+    "path": "itemart/items.1fc755c214c85bfd837af8603b273067febbaa4340251fa27d814298ad303fa7.json",
+    "sha256": "1fc755c214c85bfd837af8603b273067febbaa4340251fa27d814298ad303fa7",
+    "size": 587002
   },
   "modSets": {
     "path": "modsets/modsets.e06865b63c449c542698b3a12218cff372414f6c00f2c50fcf41b96cb469a76b.json",
@@ -333,5 +333,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1793520917
+  "sequence": 1793651862
 }
