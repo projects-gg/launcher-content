@@ -298,11 +298,11 @@
     "version": "4.2.7"
   },
   "config": {
-    "path": "config/launcher.bd18b810d58f51015114d722474be1613ef6ad787cc8aad91a096ccc2da13a60.json",
-    "sha256": "bd18b810d58f51015114d722474be1613ef6ad787cc8aad91a096ccc2da13a60",
-    "size": 2483
+    "path": "config/launcher.0217ffdc9efb365ef3fefa465a03a4fe4429dfba2ce37aaab08932a730dd404f.json",
+    "sha256": "0217ffdc9efb365ef3fefa465a03a4fe4429dfba2ce37aaab08932a730dd404f",
+    "size": 2504
   },
-  "generatedAt": "2026-11-03T01:30:00Z",
+  "generatedAt": "2026-11-03T17:36:43Z",
   "itemArt": {
     "path": "itemart/items.1fc755c214c85bfd837af8603b273067febbaa4340251fa27d814298ad303fa7.json",
     "sha256": "1fc755c214c85bfd837af8603b273067febbaa4340251fa27d814298ad303fa7",
@@ -333,5 +333,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1793669400
+  "sequence": 1793727403
 }
