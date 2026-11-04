@@ -1,0 +1,115 @@
+{
+  "banners": [],
+  "discord": {
+    "clientId": "",
+    "enabled": true,
+    "templates": {}
+  },
+  "events": [],
+  "features": {
+    "afk": true,
+    "chat": true,
+    "fastPacks": true,
+    "friends": true,
+    "modrinthBrowser": true,
+    "offlineAccounts": true,
+    "overlayJars": true,
+    "phoneAfk": true,
+    "premiumLogin": true,
+    "skins": true,
+    "socNext": true,
+    "subServers": true,
+    "teams": true,
+    "telemetry": true,
+    "voice": true,
+    "worlds": true
+  },
+  "hero": {
+    "particles": "embers",
+    "subtitle": "",
+    "title": ""
+  },
+  "links": {
+    "custom": [],
+    "discord": "https://discord.gg/9hxHCTQ",
+    "store": "https://mc.projects.gg/store",
+    "support": "https://mc.projects.gg/support/tickets/"
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": "",
+    "title": ""
+  },
+  "newsFeed": {
+    "enabled": true,
+    "keys": [
+      {
+        "keyId": "adc3cdee7d3161a7",
+        "publicKey": "xSpGNSi8itFZGDfPDiwgMzVyOWS/2xGep8VdLUomJwo="
+      }
+    ],
+    "maxAgeDays": 60,
+    "mirrors": [
+      "https://feed.projects.gg/v1/",
+      "https://projects.gg/launcher-feed/v1/"
+    ]
+  },
+  "recommendedMinecraftVersion": "26.1.2",
+  "recommendedPack": "projects",
+  "schema": 1,
+  "servers": [
+    {
+      "address": "play.projects.gg",
+      "description": "Ana sunucu",
+      "featured": true,
+      "icon": {
+        "blurhash": "LBD[LH$i10t6NuS2a#s:9|Nb=YIq",
+        "height": 256,
+        "kind": "image",
+        "path": "media/87585bc8da818dfa0999ca65fa407c42e8196c47bbc3fbedc060fa672031f335.webp",
+        "sha256": "87585bc8da818dfa0999ca65fa407c42e8196c47bbc3fbedc060fa672031f335",
+        "size": 10466,
+        "width": 256
+      },
+      "id": "Projects",
+      "name": "Projects",
+      "port": 25565,
+      "subServers": [
+        {
+          "command": "/zephyr",
+          "id": "survival",
+          "name": "Survival"
+        },
+        {
+          "command": "/aurora",
+          "id": "skyblock",
+          "name": "SkyBlock"
+        },
+        {
+          "command": "/aergia",
+          "id": "pvp",
+          "name": "PvP"
+        },
+        {
+          "command": "/smp",
+          "id": "smp",
+          "name": "SMP"
+        },
+        {
+          "command": "/hg",
+          "id": "hg",
+          "name": "Hunger Games"
+        },
+        {
+          "command": "/testserver",
+          "id": "testserver",
+          "name": "TestServer",
+          "testersOnly": true
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "season": "none"
+  }
+}
