@@ -302,11 +302,11 @@
     "sha256": "9d8161b21f2f86a012b532eebaa230a7afc69ef34caf41085c11a300f0bd2e48",
     "size": 2640
   },
-  "generatedAt": "2026-11-13T20:44:07Z",
+  "generatedAt": "2026-11-13T21:31:47Z",
   "itemArt": {
-    "path": "itemart/items.1fc755c214c85bfd837af8603b273067febbaa4340251fa27d814298ad303fa7.json",
-    "sha256": "1fc755c214c85bfd837af8603b273067febbaa4340251fa27d814298ad303fa7",
-    "size": 587002
+    "path": "itemart/items.292a454b4261798ac144d6f96c0896bf59b1673891d51b7a470286995ad2d5ae.json",
+    "sha256": "292a454b4261798ac144d6f96c0896bf59b1673891d51b7a470286995ad2d5ae",
+    "size": 638712
   },
   "modSets": {
     "path": "modsets/modsets.e06865b63c449c542698b3a12218cff372414f6c00f2c50fcf41b96cb469a76b.json",
@@ -333,5 +333,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1794602647
+  "sequence": 1794605507
 }
