@@ -302,7 +302,7 @@
     "sha256": "9d8161b21f2f86a012b532eebaa230a7afc69ef34caf41085c11a300f0bd2e48",
     "size": 2640
   },
-  "generatedAt": "2026-11-13T21:31:47Z",
+  "generatedAt": "2026-11-19T13:54:10Z",
   "itemArt": {
     "path": "itemart/items.292a454b4261798ac144d6f96c0896bf59b1673891d51b7a470286995ad2d5ae.json",
     "sha256": "292a454b4261798ac144d6f96c0896bf59b1673891d51b7a470286995ad2d5ae",
@@ -333,5 +333,5 @@
     }
   ],
   "schema": 1,
-  "sequence": 1794605507
+  "sequence": 1795096450
 }
