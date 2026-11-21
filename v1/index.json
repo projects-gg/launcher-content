@@ -302,7 +302,7 @@
     "sha256": "9d8161b21f2f86a012b532eebaa230a7afc69ef34caf41085c11a300f0bd2e48",
     "size": 2640
   },
-  "generatedAt": "2026-11-19T22:55:07Z",
+  "generatedAt": "2026-11-21T18:35:49Z",
   "itemArt": {
     "path": "itemart/items.e8ff933120ab41beaa730686784cd400d88af72c683f0061863a5cf38ae217ef.json",
     "sha256": "e8ff933120ab41beaa730686784cd400d88af72c683f0061863a5cf38ae217ef",
@@ -330,8 +330,20 @@
       },
       "minecraft": "26.1.2",
       "name": "Projects"
+    },
+    {
+      "family": "projects",
+      "id": "projects-26.3",
+      "latest": "1.0.6",
+      "manifest": {
+        "path": "packs/projects-26.3/1.0.6.json",
+        "sha256": "3b888ec668be89bd6fcc125b9e9e9d1c92c790a4c3d6f30972bfe59da86107a7",
+        "size": 61434
+      },
+      "minecraft": "26.3",
+      "name": "Projects"
     }
   ],
   "schema": 1,
-  "sequence": 1795128907
+  "sequence": 1795286149
 }
