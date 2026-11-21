@@ -1,0 +1,1672 @@
+{
+  "dependencies": {
+    "fabric-loader": "0.20.1",
+    "minecraft": "26.3"
+  },
+  "files": [
+    {
+      "downloads": [
+        "https://cdn.projects.gg/v1/files/3717b78df1ba095ff2b221ade471da1e56e50685",
+        "https://raw.githubusercontent.com/projects-gg/launcher-content/main/v1/files/3717b78df1ba095ff2b221ade471da1e56e50685"
+      ],
+      "fileSize": 60,
+      "hashes": {
+        "sha1": "3717b78df1ba095ff2b221ade471da1e56e50685",
+        "sha512": "1cc2e0397b2d054f6e69572953df575c0903b2841bacd42fcd8a4e158dbffd7fa796a17172252a0dae9936bd16fed4c8e90efe944ceb4c89766c5443951a91bc"
+      },
+      "path": "config/betteradvancements.json"
+    },
+    {
+      "downloads": [
+        "https://cdn.projects.gg/v1/files/94abf9114dfaf4a182082aae4df22324a714eddf",
+        "https://raw.githubusercontent.com/projects-gg/launcher-content/main/v1/files/94abf9114dfaf4a182082aae4df22324a714eddf"
+      ],
+      "fileSize": 7427,
+      "hashes": {
+        "sha1": "94abf9114dfaf4a182082aae4df22324a714eddf",
+        "sha512": "49e5d09966b24e10d70ce464ff6b4406a419ad468a5d90e95992b8e3c5d97cc9433630dd2c9b0ba7ed1ad8fb940cf99e42c73d869fac7735aecbda81c6a7ef53"
+      },
+      "path": "config/ct-pack-patch.json"
+    },
+    {
+      "downloads": [
+        "https://cdn.projects.gg/v1/files/8bcdc539dcc34c88a7a950d51ea2038c4ea1c230",
+        "https://raw.githubusercontent.com/projects-gg/launcher-content/main/v1/files/8bcdc539dcc34c88a7a950d51ea2038c4ea1c230"
+      ],
+      "fileSize": 84,
+      "hashes": {
+        "sha1": "8bcdc539dcc34c88a7a950d51ea2038c4ea1c230",
+        "sha512": "62b181d5c53fca378c979050e1d235b2cf2f39b832cbda7c96b46c73e9db3c4cfea8a4b146b70929f3ff493e7f52356a51b1cd4d44a556179ec5856496d67f3d"
+      },
+      "path": "config/replaymod.json"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Sp0ctspw/BadOptimizations-2.4.1-26.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 60760,
+      "hashes": {
+        "sha1": "4cc25ce6217326ff14169f5358921773297e9475",
+        "sha512": "048a0979807afb96bae7801b7445746c985081bb55fab9b80b286036234a9869cc84f83c40ab77a2600b7e06ad44178ee17935b706b751c9b38f87ebc6e180f8"
+      },
+      "path": "mods/BadOptimizations-2.4.1-26.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FQp3HIDr/BetterAdvancements-Fabric-26.3-0.6.0.81.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 105930,
+      "hashes": {
+        "sha1": "e4e244f7e737c728ff2142e28e97c5cff87e0811",
+        "sha512": "54eea156ca2052d7bfecc1d706103d79fdd0b070d29c01a7a01987d898aa534e0c34dee65adfb74a6b16f25c5b1c9945441d5d703363808078c56ea526146d6d"
+      },
+      "path": "mods/BetterAdvancements-Fabric-26.3-0.6.0.81.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/XB7u4eSf/BetterF3-20.0.0-Fabric-26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 719577,
+      "hashes": {
+        "sha1": "418b70684cf0e5a48c861216c86ae97949bc39f7",
+        "sha512": "1e78531358f690404efe98b26de1024284078596785420a92ff5dba052003064e87537936c006c3c58470ccdc2ed6ae69a65f26ca534366e90d97470f2973118"
+      },
+      "path": "mods/BetterF3-20.0.0-Fabric-26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wnxd13zP/versions/J4I1wxJZ/Clumps-fabric-26.3-26.3.2.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 20154,
+      "hashes": {
+        "sha1": "86d6618f772320bb5e66b4696396a450d5cb845e",
+        "sha512": "8c166ae97e1999d0f213d0a181d6ef87b99648016c92c9aa1414d2c2e24364b12549569cd7e247a3d675df703ae6a8a88fc175d3f527818c710578408508c8ab"
+      },
+      "path": "mods/Clumps-fabric-26.3-26.3.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/iZ10HXDj/versions/fY8E5FjE/FpsReducer2-fabric-26.3-2.18.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 136631,
+      "hashes": {
+        "sha1": "08450f7380b61af2aadcf38cb61cb31ee74fd522",
+        "sha512": "048396a4cd2802271cf9e6cb445dfafa2ab9a68b059967c674ea845ae2735636594e247a16a813c69f7b70b02e3fdf1c299faf770f10425164439f768b0a942a"
+      },
+      "path": "mods/FpsReducer2-fabric-26.3-2.18.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/wdLuzzEP/versions/k6ywOirE/Gamma-Utils-Fabric-3.2.2%2Bmc26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 103107,
+      "hashes": {
+        "sha1": "98c1ca5bfd1ec3b2ab992323bd3f8fd957b4066d",
+        "sha512": "6cc6029537b7741af1c7b36a9f44e22bf379c4851c4d44918acc24d2d74009d4739eb1a1296078ac2b8d3d9430083b9452a168059d3ca090394656adbad02575"
+      },
+      "path": "mods/Gamma-Utils-Fabric-3.2.2+mc26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/cudtvDnd/versions/oS3Q4s88/IAS-9.0.8%2B26.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 323087,
+      "hashes": {
+        "sha1": "2b5cb93d606f5c4e3597a063e0377fa70970ffb5",
+        "sha512": "6621d7a45434d386f4eb5a643a7cf1c0147672c74df137d52216c554d81edd395e2c6b3b2057accabe2bc192bf53536707c012e25d5e44889ef5fe23391f551d"
+      },
+      "path": "mods/IAS-9.0.8+26.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 99586,
+      "hashes": {
+        "sha1": "f565bbeb201f2305e81761429d3f1f47e1c3a321",
+        "sha512": "8e139589fd995bce3d485a34d92a07243964212f7ed2e4fc2f6de5b9a74d0f59b03252e7ce40c64e006cf3e21bed5de27b830d33ef048b286e041f6178ad8428"
+      },
+      "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/LeMuMhLv/MouseTweaks-fabric-mc26.3-2.31.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 74569,
+      "hashes": {
+        "sha1": "65c0f5588900e7ade476164ec4915bfab52c129a",
+        "sha512": "61c011308b5d1d0b2163473cbbc1ad0f1b3ac873b77e3e9ff67ccb437a946fbe5f34077281ebd2b91647324969d319f6499ac4b319cfcb9ea027bac47a52c081"
+      },
+      "path": "mods/MouseTweaks-fabric-mc26.3-2.31.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/RLzHAoZe/versions/fRxNdO2e/Resourcify%20%2826.3-fabric%29-1.8.7.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 2858616,
+      "hashes": {
+        "sha1": "2bc181e1ccb4fedd13cb71da17eb7ede85c21378",
+        "sha512": "994744e136ae942f40b8556f94e428b248092396606761e93947b8fbc814257e4ada17af5bd6dba189592f7f3c5641a205f08abe90be4fd39731dd69dd0e4e75"
+      },
+      "path": "mods/Resourcify (26.3-fabric)-1.8.7.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/696WgnvT/versions/XM8gMY5X/SodiumExtraInformation-fabric-2.9.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 64201,
+      "hashes": {
+        "sha1": "582efb3e821ed87417cb6b0ee4b62b22dae273b1",
+        "sha512": "5b90a10bb9832846014a71e287294ed5bd1f463925bd2ed5353eae53cdbbb829025b7c0f3dfdeecca4f4f43fe0cc6f6c0c8ea3d8a07ffc6ab7af8b8f6313106b"
+      },
+      "path": "mods/SodiumExtraInformation-fabric-2.9.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.projects.gg/v1/files/a7966d60532aea2d7e9856a6775ad734f491b7c2",
+        "https://raw.githubusercontent.com/projects-gg/launcher-content/main/v1/files/a7966d60532aea2d7e9856a6775ad734f491b7c2"
+      ],
+      "fileSize": 151067,
+      "hashes": {
+        "sha1": "a7966d60532aea2d7e9856a6775ad734f491b7c2",
+        "sha512": "2f0db659e11c09c11f51194ba5e054862770d830b26364f5a49c8a883cee801f1ac46f9cb8dac5fbe75dd71496e8d62ad0fa45502f40cf3215e9d890a7c2e65f"
+      },
+      "path": "mods/WI-Zoom-1.7-MC26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/PuTjrq4T/versions/yF1sty8C/anvianslib-fabric-26.1-1.5.0.jar"
+      ],
+      "fileSize": 31358,
+      "hashes": {
+        "sha1": "90703eae117e6189d198a098751d75e21fa70c1c",
+        "sha512": "715ac37c2097b4a5e464cd71a5ae45ce423bd4935d8c5d70639116dcfe1d960728dca2aa6c2457da16d7dced255508a99814f1b6f0fcaff060fee470081cd7af"
+      },
+      "path": "mods/anvianslib-fabric-26.1-1.5.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/EsAfCjCV/versions/PHjDtQay/appleskin-fabric-mc26.3-3.0.10.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 180194,
+      "hashes": {
+        "sha1": "3d19e40c5f97186857db98e622c01c2cd0030497",
+        "sha512": "17d257af419b7530aa8617c2e8c0e4bbfabcf888f26655790e0188e7957e0bcd931f85f9a4c69fd27e889dee5082cf7b2b8741a14a6ed4425e9ef4bfe13a8b8c"
+      },
+      "path": "mods/appleskin-fabric-mc26.3-3.0.10.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kqJFAPU9/versions/M3Fe5t0L/bettermounthud-1.3.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 20780,
+      "hashes": {
+        "sha1": "f86040d5010c7aad1c677c7a7fefe52d3b386abd",
+        "sha512": "c7fff6ddc463178f7154d433a9dfe21443732d1f70f450a5e03860f631adb2f6a445d72fb59ac017f014add4881edf59d9960e9163d6d497d117bd16a8ae5295"
+      },
+      "path": "mods/bettermounthud-1.3.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/n6PXGAoM/versions/9klmjAbK/betterstats-5.9.0%2Bfn-26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "fileSize": 426929,
+      "hashes": {
+        "sha1": "0f2beb05816cdbd4a4b092c057d192b899d5ce22",
+        "sha512": "ef81dcf6ffb9b50fe953fc95c122d5373e310a279ee78f2ad53dd5c790720705d32a1120cdaedb0813f8af44978b37f8385e8f89cf73e8d05bce5d14c9d75d7a"
+      },
+      "path": "mods/betterstats-5.9.0+fn-26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/BdKIyOLe/versions/IBhsOJlh/boatiview-fabric-0.0.11-26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 1061984,
+      "hashes": {
+        "sha1": "230bac67e9283f3f11d5dcf63dfcf5719e9b0afc",
+        "sha512": "1d8f405f3b585a0d7f7d8a6ed77ced62950c9a9bd534427805111d71091ae8b67c2fe4e82144cf0319b2d1e7e50f2d051818df0aa4582b574313d95531b84b0a"
+      },
+      "path": "mods/boatiview-fabric-0.0.11-26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/89Wsn8GD/versions/I89rLLKh/capes-1.5.10%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 78113,
+      "hashes": {
+        "sha1": "87e14543620887cab4f055ad8d033c165b9fc5b8",
+        "sha512": "12b75d29294999759f78dfc7bb60ff3594a020e99dea660b1f199537e76278b2f4963e852008a7109a5dff0bfc9ec471a0fb6497d435fa040044b5320f4c5b13"
+      },
+      "path": "mods/capes-1.5.10+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/VC2NohMN/versions/4VAHpekk/chesttracker-2.8.4%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 3450883,
+      "hashes": {
+        "sha1": "0a6f6d0b304e2e705773433cbd829568a2677651",
+        "sha512": "6e54c22b072246a716df5e3adf439e9434a8bf952b1032cd87fe2d9f27f5d889fa037d0e64166549bd3e854f88a4221784f5ac4f5848f327bbe6334a48a51755"
+      },
+      "path": "mods/chesttracker-2.8.4+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 1135009,
+      "hashes": {
+        "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
+        "sha512": "8924e19d41845096724fa10f3717bc51964a0edbbbcad0ff1e6c6187a398b08f356e49579a657c2dc44a7f92e3850771f3ca70bf8c1f654de60425163b91dbb1"
+      },
+      "path": "mods/cloth-config-fabric-26.3.159.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/1IjD5062/versions/Jt2sCWTQ/continuity-3.0.1%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 1002033,
+      "hashes": {
+        "sha1": "63d51781b2c87e3b4b4ca98a133db8c98d3f2afb",
+        "sha512": "1ec1e3b2f73c26b19445d664822a8936e9076f4d8855a2ed5fac19786daa8da42da8fdc9526c4a53c227a82819a87ad8e73d5b4fc003f6519c50454c33014f04"
+      },
+      "path": "mods/continuity-3.0.1+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 189474,
+      "hashes": {
+        "sha1": "a4860c9480f0ce1a468e1e4c254214b1f97e19b3",
+        "sha512": "7976d11411babfa3ac0c38898f26ee6192f22a4f595b637eeae3cc5185f326c0e4b9fd7d00b3d7e8d020dd861295f0df52f9a9d7c67e88946d0ba9fff4a9f894"
+      },
+      "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/vF6qLXsA/entity_model_features-3.3.12-26.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 665386,
+      "hashes": {
+        "sha1": "2d076285c7e0671165fc86a827e62ce88ddcd201",
+        "sha512": "4572fc065e757264947aff35a96d17d5e45d4b43e8e385b9a207f5380a8f43da5dbf8e10f30a7bc7cc4c0c8f7999717b4dd22d325667bdf8a0de6e839ad81efc"
+      },
+      "path": "mods/entity_model_features-3.3.12-26.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/IMuO8COj/versions/wLbaCWaA/entity_sound_features-0.8.2-26.1-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 96666,
+      "hashes": {
+        "sha1": "4398bc8c1d199b9c7a7bef7368c028ef3a65062f",
+        "sha512": "9b5f604af03ff829f819d12c77acc36e3891a2735a2dac2c2aa862d307541b90813839d1133478561ca60ec61bba84433e40ee674b8ef23e6614119851c7e87e"
+      },
+      "path": "mods/entity_sound_features-0.8.2-26.1-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/svwZ2o4d/entity_texture_features-7.2.7-26.3-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 798322,
+      "hashes": {
+        "sha1": "29f48f42d72007ce13b4678fac5b2ef5986879e4",
+        "sha512": "69193c58d4d05e08fea9afa34cc47563e9b9e95aa2da276441085ade44ed36f8123b9cc1a2938f9ecac9aea6fd9ceb51120dd20f7284337a3bb592bc3b904336"
+      },
+      "path": "mods/entity_texture_features-7.2.7-26.3-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/UWpkLRV5/entityculling-fabric-1.12.1-mc26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 1522184,
+      "hashes": {
+        "sha1": "de9005580599906b55ff241bdf8cb27da999939a",
+        "sha512": "c56e2a19fa98b8ee85d7f46b74966a272f03ec9a8edacd4a6eb629970f19fd4d2a9bddeacb8405f9abdb790a40895244927a28cf5dbbe4dcb65a0b307f493fcb"
+      },
+      "path": "mods/entityculling-fabric-1.12.1-mc26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/Zns5SSRA/fabric-api-0.166.2%2B26.3.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 1797523,
+      "hashes": {
+        "sha1": "65636253571429971f25f5619692e6c1a6362028",
+        "sha512": "fb686a9fa923248328107a12498229d6951e316257f18b7d0e4cbd6885ba447ed50a44076a8a5ba47cfe2043b329db3587ab000aeab1face26b2587a5d4ba6b5"
+      },
+      "path": "mods/fabric-api-0.166.2+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 8142878,
+      "hashes": {
+        "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
+        "sha512": "7fb475c4a7e7bdf8d0aca4b5798a58a354c51443d5b1fbde3e8cf34dfbf7191ef4238b5f07d08ec9490ec180b371624523326c3ad45d4ed2b2be541de9407e5d"
+      },
+      "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 72677,
+      "hashes": {
+        "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+        "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+      },
+      "path": "mods/ferritecore-9.0.0-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 2850938,
+      "hashes": {
+        "sha1": "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c",
+        "sha512": "d8d3312f77fc52a48e4a6cd836fda33669bdebcb4de0b8c0d30adc808b287330a533e0baef355cc1ce6336a26851d9775369a802a4666b7b7a6266af20088f42"
+      },
+      "path": "mods/iris-fabric-1.11.7+mc26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/fQEb0iXm/versions/UugdIYJw/krypton-0.3.2.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 268849,
+      "hashes": {
+        "sha1": "21b21cb88e412f0bce73b6609de6dd6aca958d7d",
+        "sha512": "d1d57ebd41395b75b01f130cd9503eb8d208212424a399ff9f367f50be8fbc1c6472442b33c686e777c3148f6a609520e8fb732c755157c358cb207fd4d1123a"
+      },
+      "path": "mods/krypton-0.3.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 1345715,
+      "hashes": {
+        "sha1": "18c8ab40f03219bfcf809a83db6e3958ed8bb866",
+        "sha512": "67c37ca7d619bd7f2b0dc02217070c20e34fb3bb3363d4e23f5ef9ca90b1b58adb223fab73639a3499d366497316f1eb297d2759f3ffb976467b4759f784619d"
+      },
+      "path": "mods/lambdynamiclights-4.13.0+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uLbm7CG6/versions/QVn4cccd/language-reload-1.7.8%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 79325,
+      "hashes": {
+        "sha1": "e6fd2df83d1d3d0f352a7e45eaf76f4551c136f2",
+        "sha512": "6366596875e9fa33b6b8119d08e5c18f3514662e319a735cedc8addb00bff4cf3179f3a33533b2070c1ddd776f23e6a5f22b69d0da0589f3091f0db9eead1d43"
+      },
+      "path": "mods/language-reload-1.7.8+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Lal8mJGR/lithium-fabric-0.26.4%2Bmc26.3.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 921530,
+      "hashes": {
+        "sha1": "b87fcae581c1ff1b3aac8314004c9d7616f90827",
+        "sha512": "033f85813b0bcafe848a55dd741b9b1a30685dcdf774a922507bf63716b16bfd0fc12856ffc4ca3c76a36f6dc73310a7dfdc4b6dc9e35c21a4482627b1d30b85"
+      },
+      "path": "mods/lithium-fabric-0.26.4+mc26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/xckkBHD5/modmenu-21.0.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 862761,
+      "hashes": {
+        "sha1": "884ab621735264187ccbfc87017cf55bb54d47ee",
+        "sha512": "d00d52d5342728da13a6237f76c50fc5fd1c62d8112ae4e07726bbc64d2019a76130d6b2968765df81c6499225588eacee6681eebc13c0ada3cad91fc8ab2984"
+      },
+      "path": "mods/modmenu-21.0.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/8qkXwOnk/versions/qpDhYv1Y/morechathistory-2.0.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 3773,
+      "hashes": {
+        "sha1": "6ce97845f93090dd7556b6e64bb7d63e126b83b4",
+        "sha512": "e85558f3effe8baee6394b61f48981989d22e181a3b8772c0f521022914d4c3603785e0e23a8df4a5e6ce9407c6abb8cf7d73183901908227a5623daadf30d67"
+      },
+      "path": "mods/morechathistory-2.0.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/51shyZVL/versions/5jIORlSK/moreculling-fabric-26.3-1.9.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 297173,
+      "hashes": {
+        "sha1": "2c768b910eb1cb3fcb880bcacc7dbf9c0678ce06",
+        "sha512": "93ae8cfe7b07391ca2966a86a60798fe7f37c2092545ed52a74d01a405b66cc5ecb236e303dc5c966a5d1ac20480e88c4f35b1d7b75a31c790a32bf58551a909"
+      },
+      "path": "mods/moreculling-fabric-26.3-1.9.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/JuksLGBQ/versions/rRPZGCYn/optigui-2.3.0-beta.11%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 609584,
+      "hashes": {
+        "sha1": "97a312e0a545814a0bb83b3dc8e897abac720525",
+        "sha512": "e973a9a54774ec1bc5a6d7009feb3816b0179ae0f41a56ad0fb331734f96c157f35e68375b858c729ecfe45885c2d198a7301b658ffeee34770429b0de61520f"
+      },
+      "path": "mods/optigui-2.3.0-beta.11+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 254959,
+      "hashes": {
+        "sha1": "4c455faa6333dbaef72cedbb91fe4a2a03176741",
+        "sha512": "eb2bb31e51068aad2581b7864ea7b11b1209ba1c2b27551cd5837d9b312b818b73bb47c06374b46b99b73401c62c6b6c115f702c55aed6afd467ad8ad6448de4"
+      },
+      "path": "mods/placeholder-api-3.2.0+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.projects.gg/v1/files/a986bef7d6f5ae9c2e17b1f86bb5ba459637802c",
+        "https://raw.githubusercontent.com/projects-gg/launcher-content/main/v1/files/a986bef7d6f5ae9c2e17b1f86bb5ba459637802c"
+      ],
+      "fileSize": 2674445,
+      "hashes": {
+        "sha1": "a986bef7d6f5ae9c2e17b1f86bb5ba459637802c",
+        "sha512": "bf5c9a0e0cd075cdac1e91a92a4dce21e674ade4b1dd9e3698a4cf96b109c2d9a5197ad67c95277a287400200a57e7dcd0a1262f0b96feb2fcd4ec7715c0a6e5"
+      },
+      "path": "mods/projects-overlay-0.1.0+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/pSISfJ4O/versions/yxxSBFPA/quick-pack-fabric-1.5.2%2B26.3.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 22047,
+      "hashes": {
+        "sha1": "c073f0e35da408b6831b81d37444cf140e6697a9",
+        "sha512": "c2ed32f95b6c6fe092ffbdd132586ddcceaaed1efc233caa988c00c992c9cf8ffab81f07b26b964e8e1efff548e2619f3f49186e84a2578f31108d9f91c09f60"
+      },
+      "path": "mods/quick-pack-fabric-1.5.2+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/EfchygKx/reeses-sodium-options-fabric-2.2.5%2Bmc26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 258082,
+      "hashes": {
+        "sha1": "305aa813172358eb5e95d0a7af02a44326261226",
+        "sha512": "9c6f335618c1ec03cf9030cd88cdc32be5457bf4fbabd49c76ed68df53530730cf4681ec3742f2c6efbd48cb2b784f24c636977a95d78df62af1214ec5488be0"
+      },
+      "path": "mods/reeses-sodium-options-fabric-2.2.5+mc26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Nv2fQJo5/versions/7c5mnPyr/replaymod-26.3-2.6.28.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 15762969,
+      "hashes": {
+        "sha1": "6e6cc19cb5b5a88c2c37dfe567c3d36685ba591b",
+        "sha512": "e2b3455a138b6b1a866422906e417a5f98dd4a78edaf86d50c109c067309ac34eddac9e714604d3cbc52a9273e240f0a7bb6efe51ca4310d13dc235883659e93"
+      },
+      "path": "mods/replaymod-26.3-2.6.28.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZP7xHXtw/versions/CAVJGGfj/rrls-5.2.8%2Bmc.26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 117764,
+      "hashes": {
+        "sha1": "2b86b92f9c3ad773f5c7d751cee0512ebaccaf60",
+        "sha512": "642eea5dac162c7273f2426cbe3c38d7239a4630924ce05e91ea43bb1e8bca4d780594c4bd8728bd9239eda6859c167b79e6dee3cdb4ed3f0b118186c4e311a9"
+      },
+      "path": "mods/rrls-5.2.8+mc.26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/2M01OLQq/versions/60krd8u8/shulkerboxtooltip-fabric-5.4.3%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "fileSize": 424841,
+      "hashes": {
+        "sha1": "e81054001c0899e5c0689418f4272977fe6b0bf6",
+        "sha512": "e5c5dc22e1a7eb386a3e3499ad1ea0571f9992554d4bb023dc12b3a989e2389b65d4be337199ca842b6d194801f2340bcd976007eb4ab7440a3bdec4a0fbabf3"
+      },
+      "path": "mods/shulkerboxtooltip-fabric-5.4.3+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/fs5l9Q1U/sodium-extra-fabric-0.9.5%2Bmc26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 481973,
+      "hashes": {
+        "sha1": "f0201a1b67f3405de7152fec484228db45dcbece",
+        "sha512": "785632a8e0081a207124ad72f0862216902b89f40d4133d91b9f9553c0fe345478685630505eaba2fd6e49fdcc388414dd1ad9694cd15a0c29a8fbe0bec8d022"
+      },
+      "path": "mods/sodium-extra-fabric-0.9.5+mc26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 1908068,
+      "hashes": {
+        "sha1": "9acfe851e36f4fb27d7c5baa224e8bd4e0334283",
+        "sha512": "f3f260f204b8ce5e8777c2c73f537956755ec61f3817b0b78b5e5568e8aa40f14891f146475075109747665c7c88a45ca0ca9a8df3c68d79c58ecdaa8d8c4b93"
+      },
+      "path": "mods/sodium-fabric-0.9.2+mc26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Eldc1g37/versions/gXEcThmZ/tcdcommons-5.9.1%2Bfn-26.3.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 525668,
+      "hashes": {
+        "sha1": "38504afeaeac919e015edb549dca379b4d65a457",
+        "sha512": "cbbdf096305acbbba2072b4ef15cb31925f221f84339af779a82c482c2cf433be2a495e3fc3061d5f3e1094542551d4e07ebf2a723b61f4778f88107d3e7aeab"
+      },
+      "path": "mods/tcdcommons-5.9.1+fn-26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/x9jLR94Q/voicechat-fabric-2.6.27%2B26.3.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 5611159,
+      "hashes": {
+        "sha1": "23442735927fe3839650196c0656eb82b0322d87",
+        "sha512": "f2de66761c0f249bb0f9a4b348f98b97ab4e89d3ed3fd37638420364b7431b757933aa08c0cc3e7ba3dd85a602d6c2de313c2309fc587e93cabf31fc5f6df27e"
+      },
+      "path": "mods/voicechat-fabric-2.6.27+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.projects.gg/v1/files/f69489ee71522fface639d6753a5c9b01f3982b0",
+        "https://raw.githubusercontent.com/projects-gg/launcher-content/main/v1/files/f69489ee71522fface639d6753a5c9b01f3982b0"
+      ],
+      "fileSize": 2335130,
+      "hashes": {
+        "sha1": "f69489ee71522fface639d6753a5c9b01f3982b0",
+        "sha512": "06c7fd0b24704f5cfa9ced01b831c83db1e79ba9d2083948333013e736393207b34125d2ddb03525c8e9a94951be16a692b5a072618187bbeb5a021fd606b2af"
+      },
+      "path": "mods/xaerobetterpvp-fabric-26.3-26.6.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar"
+      ],
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "fileSize": 1125377,
+      "hashes": {
+        "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
+        "sha512": "f3957028dd31cae78f08aee3e768f61bd12c4c8423257d357bc3c1a2172047c769d37901f99775c7ffff1e5ee794025dc72738b2869cab06f1c2811841d68b24"
+      },
+      "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar"
+    }
+  ],
+  "formatVersion": 1,
+  "game": "minecraft",
+  "name": "Projects",
+  "projects": {
+    "changelog": "## 1.0.7\n\n- Minecraft 26.3 sürümü: bütün modlar 26.3 sürümlerine geçti.\n- Dynamic Lights'ın 26.3 sürümü olmadığından yerine LambDynamicLights geldi.",
+    "configPolicy": {
+      "default": "overwrite",
+      "rules": [
+        {
+          "glob": "config/betteradvancements.json",
+          "policy": "ifMissing"
+        },
+        {
+          "glob": "config/replaymod.json",
+          "policy": "ifMissing"
+        },
+        {
+          "glob": "options.txt",
+          "policy": "ifMissing"
+        },
+        {
+          "glob": "config/chesttracker.json5",
+          "policy": "ifMissing"
+        },
+        {
+          "glob": "config/**",
+          "policy": "preserveUserChanges"
+        }
+      ]
+    },
+    "family": "projects",
+    "items": [
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://raw.githubusercontent.com/imthosea/BadOptimizations/1fe829a9aa8f2b2bc0f56fc4d4055846eace73c5/fabric/src/main/resources/assets/badoptimizations/icon.png",
+        "id": "g96Z4WVZ",
+        "modrinth": {
+          "projectId": "g96Z4WVZ",
+          "versionId": "Sp0ctspw"
+        },
+        "pageUrl": "https://modrinth.com/project/g96Z4WVZ",
+        "path": "mods/BadOptimizations-2.4.1-26.3-fabric.jar",
+        "summary": "Işık ve gökyüzü gibi gereksiz güncellemeleri atlayarak oyunu hızlandırır.",
+        "title": "BadOptimizations"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/Q2OqKxDG/b1519a191e62135647f66394d526d179ab5b598d.png",
+        "id": "Q2OqKxDG",
+        "modrinth": {
+          "projectId": "Q2OqKxDG",
+          "versionId": "FQp3HIDr"
+        },
+        "pageUrl": "https://modrinth.com/project/Q2OqKxDG",
+        "path": "mods/BetterAdvancements-Fabric-26.3-0.6.0.81.jar",
+        "requires": [
+          "P7dR8mSH",
+          "9s6osm5g"
+        ],
+        "summary": "Başarımlarda neyi yapıp neyi yapmadığını gösterir ve envantere bir başarımlar düğmesi ekler.",
+        "title": "Better Advancements"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": false,
+        "iconUrl": "https://cdn.modrinth.com/data/8shC1gFX/icon.png",
+        "id": "8shC1gFX",
+        "modrinth": {
+          "projectId": "8shC1gFX",
+          "versionId": "XB7u4eSf"
+        },
+        "pageUrl": "https://modrinth.com/project/8shC1gFX",
+        "path": "mods/BetterF3-20.0.0-Fabric-26.3.jar",
+        "requires": [
+          "P7dR8mSH",
+          "9s6osm5g"
+        ],
+        "summary": "F3 ekranını renkli ve daha kolay okunur hale getirir.",
+        "title": "Better F3"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/Wnxd13zP/6a965bb7974c3e759a53a1c89c35de4acd4cf86a_96.webp",
+        "id": "Wnxd13zP",
+        "modrinth": {
+          "projectId": "Wnxd13zP",
+          "versionId": "J4I1wxJZ"
+        },
+        "pageUrl": "https://modrinth.com/project/Wnxd13zP",
+        "path": "mods/Clumps-fabric-26.3-26.3.2.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Tecrübe kürelerini birleştirerek kasmayı önler ve onları anında toplamanı sağlar.",
+        "title": "Clumps"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/iZ10HXDj/3d82fc3ce8a943d8065a4b5532f932dba144e128_96.webp",
+        "id": "iZ10HXDj",
+        "modrinth": {
+          "projectId": "iZ10HXDj",
+          "versionId": "fY8E5FjE"
+        },
+        "pageUrl": "https://modrinth.com/project/iZ10HXDj",
+        "path": "mods/FpsReducer2-fabric-26.3-2.18.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Bir süre oynamadığında kare hızını düşürerek cihazını dinlendirir.",
+        "title": "FPS Reducer"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/wdLuzzEP/b6014c210bbedacf610f7d2dba55149dae9677c8.png",
+        "id": "wdLuzzEP",
+        "modrinth": {
+          "projectId": "wdLuzzEP",
+          "versionId": "k6ywOirE"
+        },
+        "pageUrl": "https://modrinth.com/project/wdLuzzEP",
+        "path": "mods/Gamma-Utils-Fabric-3.2.2+mc26.3.jar",
+        "requires": [
+          "9s6osm5g",
+          "P7dR8mSH"
+        ],
+        "summary": "Karanlıkta her yeri görebilmen için parlaklığı en üste çıkarır.",
+        "title": "Gamma Utils (Fullbright)"
+      },
+      {
+        "category": "other",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/cudtvDnd/fe9928884fecdd1f967ea37817e01ac987d4aa5a_96.webp",
+        "id": "cudtvDnd",
+        "modrinth": {
+          "projectId": "cudtvDnd",
+          "versionId": "oS3Q4s88"
+        },
+        "pageUrl": "https://modrinth.com/project/cudtvDnd",
+        "path": "mods/IAS-9.0.8+26.3-fabric.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Oyundan çıkmadan hesap değiştirmeni sağlar.",
+        "title": "In-Game Account Switcher"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+        "id": "5ZwdcRci",
+        "modrinth": {
+          "projectId": "5ZwdcRci",
+          "versionId": "3MP9UR23"
+        },
+        "pageUrl": "https://modrinth.com/project/5ZwdcRci",
+        "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar",
+        "summary": "Arayüzü, yazıları ve eşyaları daha hızlı çizerek kare hızını artırır.",
+        "title": "ImmediatelyFast"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
+        "id": "aC3cM3Vq",
+        "modrinth": {
+          "projectId": "aC3cM3Vq",
+          "versionId": "LeMuMhLv"
+        },
+        "pageUrl": "https://modrinth.com/project/aC3cM3Vq",
+        "path": "mods/MouseTweaks-fabric-mc26.3-2.31.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Fareyle sürükleyerek eşyaları hızlıca taşımanı ve dağıtmanı sağlar.",
+        "title": "Mouse Tweaks"
+      },
+      {
+        "category": "other",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/RLzHAoZe/a353989ea9f0f124ebe7cf3e67274c2d72751431_96.webp",
+        "id": "RLzHAoZe",
+        "modrinth": {
+          "projectId": "RLzHAoZe",
+          "versionId": "fRxNdO2e"
+        },
+        "pageUrl": "https://modrinth.com/project/RLzHAoZe",
+        "path": "mods/Resourcify (26.3-fabric)-1.8.7.jar",
+        "requires": [
+          "Ha28R6CL",
+          "P7dR8mSH"
+        ],
+        "summary": "Doku paketlerini ve shader'ları oyunun içinden bulup indirmeni sağlar.",
+        "title": "Resourcify"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/696WgnvT/410287c4b17a1ee494689368e9d1ced47716a05b_96.webp",
+        "id": "696WgnvT",
+        "modrinth": {
+          "projectId": "696WgnvT",
+          "versionId": "XM8gMY5X"
+        },
+        "pageUrl": "https://modrinth.com/project/696WgnvT",
+        "path": "mods/SodiumExtraInformation-fabric-2.9.1.jar",
+        "requires": [
+          "PtjYWJkn",
+          "P7dR8mSH",
+          "AANobbMI",
+          "PuTjrq4T"
+        ],
+        "summary": "FPS göstergesine saat, bellek kullanımı ve biyom gibi bilgiler ekler.",
+        "title": "Sodium Extra Information"
+      },
+      {
+        "category": "gameplay",
+        "defaultEnabled": true,
+        "iconUrl": "https://raw.githubusercontent.com/Wurst-Imperium/WI-Zoom/v1.7-MC26.1.2/src/main/resources/assets/wi_zoom/icon.png",
+        "id": "wi-zoom",
+        "pageUrl": "https://www.wimods.net/wi-zoom/",
+        "path": "mods/WI-Zoom-1.7-MC26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Bir tuşa basılı tutarak uzağı yakınlaştırmanı sağlar.",
+        "title": "WI Zoom"
+      },
+      {
+        "category": "library",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/PuTjrq4T/c6e7d1eb6d92cb697d858967cf0cfca88aef6fbc.png",
+        "id": "PuTjrq4T",
+        "library": true,
+        "modrinth": {
+          "projectId": "PuTjrq4T",
+          "versionId": "yF1sty8C"
+        },
+        "pageUrl": "https://modrinth.com/project/PuTjrq4T",
+        "path": "mods/anvianslib-fabric-26.1-1.5.0.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Sodium Extra Information için gereken kütüphane.",
+        "title": "Anvian's Lib"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+        "id": "EsAfCjCV",
+        "modrinth": {
+          "projectId": "EsAfCjCV",
+          "versionId": "PHjDtQay"
+        },
+        "pageUrl": "https://modrinth.com/project/EsAfCjCV",
+        "path": "mods/appleskin-fabric-mc26.3-3.0.10.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Yemeklerin ne kadar doyurduğunu ve doygunluğunu açlık barında gösterir.",
+        "title": "AppleSkin"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/kqJFAPU9/2347cd97d4d4a5f87842dccebd8eba211d77d37a_96.webp",
+        "id": "kqJFAPU9",
+        "modrinth": {
+          "projectId": "kqJFAPU9",
+          "versionId": "M3Fe5t0L"
+        },
+        "pageUrl": "https://modrinth.com/project/kqJFAPU9",
+        "path": "mods/bettermounthud-1.3.1.jar",
+        "summary": "Bineğe binerken hem açlık barını hem de bineğin canını aynı anda gösterir.",
+        "title": "Better Mount HUD"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/n6PXGAoM/c5a85914f01be35575abe61c2d19d48e08581034_96.webp",
+        "id": "n6PXGAoM",
+        "modrinth": {
+          "projectId": "n6PXGAoM",
+          "versionId": "9klmjAbK"
+        },
+        "pageUrl": "https://modrinth.com/project/n6PXGAoM",
+        "path": "mods/betterstats-5.9.0+fn-26.3.jar",
+        "requires": [
+          "Eldc1g37",
+          "P7dR8mSH"
+        ],
+        "summary": "İstatistik ekranını daha ayrıntılı ve kullanışlı yapar.",
+        "title": "Better Statistics Screen"
+      },
+      {
+        "category": "gameplay",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/BdKIyOLe/icon.png",
+        "id": "BdKIyOLe",
+        "modrinth": {
+          "projectId": "BdKIyOLe",
+          "versionId": "IBhsOJlh"
+        },
+        "pageUrl": "https://modrinth.com/project/BdKIyOLe",
+        "path": "mods/boatiview-fabric-0.0.11-26.3.jar",
+        "summary": "Tekne sürerken elindeki eşyayı görmeni sağlar.",
+        "title": "Boat Item View"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/89Wsn8GD/icon.png",
+        "id": "89Wsn8GD",
+        "modrinth": {
+          "projectId": "89Wsn8GD",
+          "versionId": "I89rLLKh"
+        },
+        "pageUrl": "https://modrinth.com/project/89Wsn8GD",
+        "path": "mods/capes-1.5.10+26.3.jar",
+        "requires": [
+          "Ha28R6CL",
+          "P7dR8mSH"
+        ],
+        "summary": "OptiFine, LabyMod ve MinecraftCapes pelerinlerini görmeni sağlar.",
+        "title": "Capes"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/VC2NohMN/8b1fe0ad5ac8dcc8f568e4fc64b2a56f01810644.webp",
+        "id": "VC2NohMN",
+        "modrinth": {
+          "projectId": "VC2NohMN",
+          "versionId": "4VAHpekk"
+        },
+        "pageUrl": "https://modrinth.com/project/VC2NohMN",
+        "path": "mods/chesttracker-2.8.4+26.3.jar",
+        "requires": [
+          "1eAoo2KR",
+          "P7dR8mSH"
+        ],
+        "summary": "Açtığın sandıkların içini hatırlar; Esc tuşunun altındaki tuşla aradığın eşyayı bulursun.",
+        "title": "Chest Tracker"
+      },
+      {
+        "category": "library",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+        "id": "9s6osm5g",
+        "library": true,
+        "modrinth": {
+          "projectId": "9s6osm5g",
+          "versionId": "fg2uyxOW"
+        },
+        "pageUrl": "https://modrinth.com/project/9s6osm5g",
+        "path": "mods/cloth-config-fabric-26.3.159.jar",
+        "summary": "Mod ayar ekranları için gereken kütüphane.",
+        "title": "Cloth Config API"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/1IjD5062/icon.png",
+        "id": "1IjD5062",
+        "modrinth": {
+          "projectId": "1IjD5062",
+          "versionId": "Jt2sCWTQ"
+        },
+        "pageUrl": "https://modrinth.com/project/1IjD5062",
+        "path": "mods/continuity-3.0.1+26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Doku paketlerindeki bağlantılı cam ve blok dokularını düzgün gösterir.",
+        "title": "Continuity"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp",
+        "id": "LQ3K71Q1",
+        "modrinth": {
+          "projectId": "LQ3K71Q1",
+          "versionId": "Jwq069rR"
+        },
+        "pageUrl": "https://modrinth.com/project/LQ3K71Q1",
+        "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Oyun arka plandayken ya da pille çalışırken cihazını yormaz.",
+        "title": "Dynamic FPS"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
+        "id": "4I1XuqiY",
+        "modrinth": {
+          "projectId": "4I1XuqiY",
+          "versionId": "vF6qLXsA"
+        },
+        "pageUrl": "https://modrinth.com/project/4I1XuqiY",
+        "path": "mods/entity_model_features-3.3.12-26.3-fabric.jar",
+        "requires": [
+          "BVzZfTc1"
+        ],
+        "summary": "Doku paketlerindeki özel yaratık modellerini gösterir.",
+        "title": "Entity Model Features"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/IMuO8COj/a46f4aa1a729bd9114ce610df40b543c144a95d5_96.webp",
+        "id": "IMuO8COj",
+        "modrinth": {
+          "projectId": "IMuO8COj",
+          "versionId": "wLbaCWaA"
+        },
+        "pageUrl": "https://modrinth.com/project/IMuO8COj",
+        "path": "mods/entity_sound_features-0.8.2-26.1-fabric.jar",
+        "requires": [
+          "BVzZfTc1",
+          "4I1XuqiY"
+        ],
+        "summary": "Doku paketlerindeki özel yaratık seslerini çalar.",
+        "title": "Entity Sound Features"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
+        "id": "BVzZfTc1",
+        "modrinth": {
+          "projectId": "BVzZfTc1",
+          "versionId": "svwZ2o4d"
+        },
+        "pageUrl": "https://modrinth.com/project/BVzZfTc1",
+        "path": "mods/entity_texture_features-7.2.7-26.3-fabric.jar",
+        "summary": "Doku paketlerindeki rastgele ve parlayan yaratık dokularını gösterir.",
+        "title": "Entity Texture Features"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+        "id": "NNAgCjsB",
+        "modrinth": {
+          "projectId": "NNAgCjsB",
+          "versionId": "UWpkLRV5"
+        },
+        "pageUrl": "https://modrinth.com/project/NNAgCjsB",
+        "path": "mods/entityculling-fabric-1.12.1-mc26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Duvar arkasında kalan yaratıkları ve sandıkları çizmeyerek kare hızını artırır.",
+        "title": "Entity Culling"
+      },
+      {
+        "category": "library",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+        "id": "P7dR8mSH",
+        "library": true,
+        "modrinth": {
+          "projectId": "P7dR8mSH",
+          "versionId": "Zns5SSRA"
+        },
+        "pageUrl": "https://modrinth.com/project/P7dR8mSH",
+        "path": "mods/fabric-api-0.166.2+26.3.jar",
+        "summary": "Modların çoğunun çalışması için gereken temel kütüphane.",
+        "title": "Fabric API"
+      },
+      {
+        "category": "library",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
+        "id": "Ha28R6CL",
+        "library": true,
+        "modrinth": {
+          "projectId": "Ha28R6CL",
+          "versionId": "SKW1BTL3"
+        },
+        "pageUrl": "https://modrinth.com/project/Ha28R6CL",
+        "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+        "summary": "Kotlin ile yazılmış modlar için gereken kütüphane.",
+        "title": "Fabric Language Kotlin"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+        "id": "uXXizFIs",
+        "modrinth": {
+          "projectId": "uXXizFIs",
+          "versionId": "d5ddUdiB"
+        },
+        "pageUrl": "https://modrinth.com/project/uXXizFIs",
+        "path": "mods/ferritecore-9.0.0-fabric.jar",
+        "summary": "Oyunun kullandığı RAM miktarını azaltır.",
+        "title": "FerriteCore"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
+        "id": "YL57xq9U",
+        "modrinth": {
+          "projectId": "YL57xq9U",
+          "versionId": "vTN4NRGW"
+        },
+        "pageUrl": "https://modrinth.com/project/YL57xq9U",
+        "path": "mods/iris-fabric-1.11.7+mc26.3.jar",
+        "requires": [
+          "AANobbMI"
+        ],
+        "summary": "Shader paketleriyle gerçekçi ışık ve gölgeler kullanmanı sağlar.",
+        "title": "Iris Shaders"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp",
+        "id": "fQEb0iXm",
+        "modrinth": {
+          "projectId": "fQEb0iXm",
+          "versionId": "UugdIYJw"
+        },
+        "pageUrl": "https://modrinth.com/project/fQEb0iXm",
+        "path": "mods/krypton-0.3.2.jar",
+        "summary": "Sunucudayken bağlantı işlerini hafifleterek oyunu rahatlatır.",
+        "title": "Krypton"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/yBW8D80W/d4f5c3ff8df7caf024178b04eca6d69f95979cfe_96.webp",
+        "id": "yBW8D80W",
+        "modrinth": {
+          "projectId": "yBW8D80W",
+          "versionId": "rylKnJ4M"
+        },
+        "pageUrl": "https://modrinth.com/project/yBW8D80W",
+        "path": "mods/lambdynamiclights-4.13.0+26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Elinde meşale ya da fener tutarken etrafını aydınlatır.",
+        "title": "LambDynamicLights"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/uLbm7CG6/9cae8ec18cac3b1cc6ef1efa239f381d669264e6.png",
+        "id": "uLbm7CG6",
+        "modrinth": {
+          "projectId": "uLbm7CG6",
+          "versionId": "QVn4cccd"
+        },
+        "pageUrl": "https://modrinth.com/project/uLbm7CG6",
+        "path": "mods/language-reload-1.7.8+26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Oyunun dilini beklemeden değiştirmeni ve dil listesinde arama yapmanı sağlar.",
+        "title": "Language Reload"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+        "id": "gvQqBUqZ",
+        "modrinth": {
+          "projectId": "gvQqBUqZ",
+          "versionId": "Lal8mJGR"
+        },
+        "pageUrl": "https://modrinth.com/project/gvQqBUqZ",
+        "path": "mods/lithium-fabric-0.26.4+mc26.3.jar",
+        "summary": "Tek oyunculu dünyalarda oyunu hızlandırır ve takılmaları azaltır.",
+        "title": "Lithium"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+        "id": "mOgUt4GM",
+        "modrinth": {
+          "projectId": "mOgUt4GM",
+          "versionId": "xckkBHD5"
+        },
+        "pageUrl": "https://modrinth.com/project/mOgUt4GM",
+        "path": "mods/modmenu-21.0.1.jar",
+        "requires": [
+          "eXts2L7r",
+          "P7dR8mSH"
+        ],
+        "summary": "Kurulu modları listeler ve ayarlarını oyunun içinden değiştirmeni sağlar.",
+        "title": "Mod Menu"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/8qkXwOnk/icon.png",
+        "id": "8qkXwOnk",
+        "modrinth": {
+          "projectId": "8qkXwOnk",
+          "versionId": "qpDhYv1Y"
+        },
+        "pageUrl": "https://modrinth.com/project/8qkXwOnk",
+        "path": "mods/morechathistory-2.0.0.jar",
+        "summary": "Sohbet geçmişini 100 mesajdan binlerce mesaja çıkarır.",
+        "title": "More Chat History"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp",
+        "id": "51shyZVL",
+        "modrinth": {
+          "projectId": "51shyZVL",
+          "versionId": "5jIORlSK"
+        },
+        "pageUrl": "https://modrinth.com/project/51shyZVL",
+        "path": "mods/moreculling-fabric-26.3-1.9.1.jar",
+        "requires": [
+          "9s6osm5g"
+        ],
+        "summary": "Görünmeyen blok yüzlerini çizmeyerek kare hızını artırır.",
+        "title": "More Culling"
+      },
+      {
+        "category": "visual",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/JuksLGBQ/5e7e96524f7a7bcd8fb8936da34f8a26fb5c6a41_96.webp",
+        "id": "JuksLGBQ",
+        "modrinth": {
+          "projectId": "JuksLGBQ",
+          "versionId": "rRPZGCYn"
+        },
+        "pageUrl": "https://modrinth.com/project/JuksLGBQ",
+        "path": "mods/optigui-2.3.0-beta.11+26.3.jar",
+        "requires": [
+          "P7dR8mSH",
+          "Ha28R6CL"
+        ],
+        "summary": "Doku paketlerindeki özel envanter ve menü görünümlerini gösterir.",
+        "title": "OptiGUI"
+      },
+      {
+        "category": "library",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+        "id": "eXts2L7r",
+        "library": true,
+        "modrinth": {
+          "projectId": "eXts2L7r",
+          "versionId": "lXytLqWj"
+        },
+        "pageUrl": "https://modrinth.com/project/eXts2L7r",
+        "path": "mods/placeholder-api-3.2.0+26.3.jar",
+        "summary": "Mod Menu için gereken kütüphane.",
+        "title": "Text Placeholder API"
+      },
+      {
+        "category": "other",
+        "defaultEnabled": true,
+        "id": "projects-overlay",
+        "pageUrl": "https://github.com/projects-gg/MinecraftLauncher/tree/v2/mods/projects-overlay",
+        "path": "mods/projects-overlay-0.1.0+26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Mesajlarını, arkadaşlarını ve ekip çağrılarını oyunda F7 ile açar. Bilgisayarda Projects Launcher'la çalışır.",
+        "title": "Oyun İçi Sosyal Katman (Projects Overlay)"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": false,
+        "iconUrl": "https://cdn.modrinth.com/data/pSISfJ4O/fa5672b029c13f52a4c767724539a955548b97f2.png",
+        "id": "pSISfJ4O",
+        "modrinth": {
+          "projectId": "pSISfJ4O",
+          "versionId": "yxxSBFPA"
+        },
+        "pageUrl": "https://modrinth.com/project/pSISfJ4O",
+        "path": "mods/quick-pack-fabric-1.5.2+26.3.jar",
+        "summary": "Optimize datapack / resourcepack zip file loading times",
+        "title": "quick pack"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/Bh37bMuy/icon.png",
+        "id": "Bh37bMuy",
+        "modrinth": {
+          "projectId": "Bh37bMuy",
+          "versionId": "EfchygKx"
+        },
+        "pageUrl": "https://modrinth.com/project/Bh37bMuy",
+        "path": "mods/reeses-sodium-options-fabric-2.2.5+mc26.3.jar",
+        "requires": [
+          "AANobbMI"
+        ],
+        "summary": "Sodium'un görüntü ayarlarını sekmeli ve daha düzenli bir menüde toplar.",
+        "title": "Reese's Sodium Options"
+      },
+      {
+        "category": "other",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/Nv2fQJo5/icon.png",
+        "id": "Nv2fQJo5",
+        "modrinth": {
+          "projectId": "Nv2fQJo5",
+          "versionId": "7c5mnPyr"
+        },
+        "pageUrl": "https://modrinth.com/project/Nv2fQJo5",
+        "path": "mods/replaymod-26.3-2.6.28.jar",
+        "summary": "Oyununu kaydedip daha sonra istediğin açıdan izlemeni sağlar.",
+        "title": "Replay Mod"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/ZP7xHXtw/7a416b09817a79adfa6a3ef9368990135e276821_96.webp",
+        "id": "ZP7xHXtw",
+        "modrinth": {
+          "projectId": "ZP7xHXtw",
+          "versionId": "CAVJGGfj"
+        },
+        "pageUrl": "https://modrinth.com/project/ZP7xHXtw",
+        "path": "mods/rrls-5.2.8+mc.26.3.jar",
+        "summary": "Doku paketleri arka planda yüklenir, beklerken oynamaya devam edebilirsin.",
+        "title": "Remove Reloading Screen"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp",
+        "id": "2M01OLQq",
+        "modrinth": {
+          "projectId": "2M01OLQq",
+          "versionId": "60krd8u8"
+        },
+        "pageUrl": "https://modrinth.com/project/2M01OLQq",
+        "path": "mods/shulkerboxtooltip-fabric-5.4.3+26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Shulker kutularının içini açmadan, üzerine gelince görmeni sağlar.",
+        "title": "Shulker Box Tooltip"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/PtjYWJkn/0df4fb22a11e1dcb5e83cb0aadd275b571aca7a9_96.webp",
+        "id": "PtjYWJkn",
+        "modrinth": {
+          "projectId": "PtjYWJkn",
+          "versionId": "fs5l9Q1U"
+        },
+        "pageUrl": "https://modrinth.com/project/PtjYWJkn",
+        "path": "mods/sodium-extra-fabric-0.9.5+mc26.3.jar",
+        "requires": [
+          "AANobbMI"
+        ],
+        "summary": "Görüntü ayarlarına animasyon, parçacık, sis ve FPS göstergesi seçenekleri ekler.",
+        "title": "Sodium Extra"
+      },
+      {
+        "category": "performance",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+        "id": "AANobbMI",
+        "modrinth": {
+          "projectId": "AANobbMI",
+          "versionId": "bAZQdGpg"
+        },
+        "pageUrl": "https://modrinth.com/project/AANobbMI",
+        "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
+        "summary": "Kare hızını büyük ölçüde artırır ve takılmaları azaltır.",
+        "title": "Sodium"
+      },
+      {
+        "category": "library",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/Eldc1g37/36f2c7c76a7fc63e827bc20657853b7f1d9e4060.png",
+        "id": "Eldc1g37",
+        "library": true,
+        "modrinth": {
+          "projectId": "Eldc1g37",
+          "versionId": "gXEcThmZ"
+        },
+        "pageUrl": "https://modrinth.com/project/Eldc1g37",
+        "path": "mods/tcdcommons-5.9.1+fn-26.3.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Better Statistics Screen için gereken kütüphane.",
+        "title": "TCDCommons API"
+      },
+      {
+        "category": "gameplay",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png",
+        "id": "9eGKb6K1",
+        "modrinth": {
+          "projectId": "9eGKb6K1",
+          "versionId": "x9jLR94Q"
+        },
+        "pageUrl": "https://modrinth.com/project/9eGKb6K1",
+        "path": "mods/voicechat-fabric-2.6.27+26.3.jar",
+        "summary": "Bu modu kullanan oyuncularla oyunda sesli konuşmanı sağlar.",
+        "title": "Simple Voice Chat"
+      },
+      {
+        "category": "interface",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+        "id": "better-pvp",
+        "pageUrl": "https://chocolateminecraft.com/betterpvp2.php",
+        "path": "mods/xaerobetterpvp-fabric-26.3-26.6.2.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "Koordinat, yön ve iksir etkileri gibi bilgileri ekranında gösterir.",
+        "title": "Better PvP"
+      },
+      {
+        "category": "library",
+        "defaultEnabled": true,
+        "iconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+        "id": "1eAoo2KR",
+        "library": true,
+        "modrinth": {
+          "projectId": "1eAoo2KR",
+          "versionId": "s9SjoFu1"
+        },
+        "pageUrl": "https://modrinth.com/project/1eAoo2KR",
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+        "requires": [
+          "P7dR8mSH"
+        ],
+        "summary": "A builder-based configuration library for Minecraft!",
+        "title": "YetAnotherConfigLib (YACL)"
+      }
+    ],
+    "optionalGroups": [
+      {
+        "defaultEnabled": false,
+        "description": "Varsayılan olarak kurulmayan modlar.",
+        "files": [
+          "mods/BetterF3-20.0.0-Fabric-26.3.jar",
+          "mods/quick-pack-fabric-1.5.2+26.3.jar"
+        ],
+        "id": "mod-center-optional",
+        "name": "İsteğe bağlı modlar"
+      }
+    ],
+    "packId": "projects-26.3",
+    "recommendedMemoryMb": 4096,
+    "servers": [
+      {
+        "address": "play.projects.gg",
+        "name": "Projects"
+      }
+    ]
+  },
+  "summary": "Resmî Projects mod paketi",
+  "versionId": "1.0.7"
+}
